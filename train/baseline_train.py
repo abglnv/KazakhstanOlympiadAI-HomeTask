@@ -161,10 +161,6 @@ def main():
     model = get_peft_model(model, lora_config)
     model.print_trainable_parameters()
 
-    # Compile the model for faster execution (PyTorch 2.x, works on MPS and CUDA)
-    if device in ("cuda", "mps"):
-        model = torch.compile(model)
-
     # Load and tokenize data
     print(f"Loading data from: {args.data_path}")
     raw_data = load_training_data(args.data_path)
