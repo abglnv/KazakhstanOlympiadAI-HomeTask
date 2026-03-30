@@ -34,6 +34,7 @@ TRAIN_BATCH_SIZE = 4
 TRAIN_GRAD_ACCUM = 4
 LEARNING_RATE = 2e-4
 WARMUP_RATIO = 0.05
+MAX_SEQ_LENGTH = 256  # samples are ~50-150 tokens; 1024 wastes O(n²) attention compute
 
 # Inference
 MAX_NEW_TOKENS = 512
@@ -69,14 +70,14 @@ def tokenize_sample(messages: list[dict], tokenizer) -> dict:
     full_text = tokenizer.apply_chat_template(
         messages, tokenize=False, add_generation_prompt=False,
     )
-    full_ids = tokenizer(full_text, return_tensors="pt", truncation=True, max_length=1024)
+    full_ids = tokenizer(full_text, return_tensors="pt", truncation=True, max_length=MAX_SEQ_LENGTH)
 
     # Conversation up to assistant response (for masking)
     prompt_messages = messages[:-1]
     prompt_text = tokenizer.apply_chat_template(
         prompt_messages, tokenize=False, add_generation_prompt=True,
     )
-    prompt_ids = tokenizer(prompt_text, return_tensors="pt", truncation=True, max_length=1024)
+    prompt_ids = tokenizer(prompt_text, return_tensors="pt", truncation=True, max_length=MAX_SEQ_LENGTH)
 
     input_ids = full_ids["input_ids"][0]
     labels = input_ids.clone()
@@ -113,25 +114,41 @@ def main():
     )
     args = parser.parse_args()
 
-    print(f"Loading model: {MODEL_NAME}")
-    # 4-bit quantization to fit on consumer GPUs
-    bnb_config = BitsAndBytesConfig(
-        load_in_4bit=True,
-        bnb_4bit_quant_type="nf4",
-        bnb_4bit_use_double_quant=True,
-        bnb_4bit_compute_dtype=torch.bfloat16,
-    )
+    # Detect available device: CUDA > MPS > CPU
+    if torch.cuda.is_available():
+        device = "cuda"
+    elif torch.backends.mps.is_available():
+        device = "mps"
+    else:
+        device = "cpu"
+    print(f"Loading model: {MODEL_NAME} (device: {device})")
 
     tokenizer = AutoTokenizer.from_pretrained(MODEL_NAME, trust_remote_code=True)
     if tokenizer.pad_token is None:
         tokenizer.pad_token = tokenizer.eos_token
 
-    model = AutoModelForCausalLM.from_pretrained(
-        MODEL_NAME,
-        quantization_config=bnb_config,
-        device_map={"": 0},
-        trust_remote_code=True,
-    )
+    # 4-bit quantization only works on CUDA (bitsandbytes has no MPS/CPU support)
+    if device == "cuda":
+        bnb_config = BitsAndBytesConfig(
+            load_in_4bit=True,
+            bnb_4bit_quant_type="nf4",
+            bnb_4bit_use_double_quant=True,
+            bnb_4bit_compute_dtype=torch.bfloat16,
+        )
+        model = AutoModelForCausalLM.from_pretrained(
+            MODEL_NAME,
+            quantization_config=bnb_config,
+            device_map={"": 0},
+            trust_remote_code=True,
+        )
+    else:
+        # On MPS/CPU: load in fp16 (fits in 16GB unified memory for 0.8B model)
+        model = AutoModelForCausalLM.from_pretrained(
+            MODEL_NAME,
+            torch_dtype=torch.float16,
+            device_map={"": device},
+            trust_remote_code=True,
+        )
 
     # Apply LoRA — baseline uses only q_proj and v_proj
     lora_config = LoraConfig(
@@ -143,6 +160,10 @@ def main():
     )
     model = get_peft_model(model, lora_config)
     model.print_trainable_parameters()
+
+    # Compile the model for faster execution (PyTorch 2.x, works on MPS and CUDA)
+    if device in ("cuda", "mps"):
+        model = torch.compile(model)
 
     # Load and tokenize data
     print(f"Loading data from: {args.data_path}")
@@ -170,13 +191,15 @@ def main():
         gradient_accumulation_steps=TRAIN_GRAD_ACCUM,
         learning_rate=LEARNING_RATE,
         warmup_ratio=WARMUP_RATIO,
-        bf16=torch.cuda.is_bf16_supported() if torch.cuda.is_available() else False,
-        fp16=not torch.cuda.is_bf16_supported() if torch.cuda.is_available() else False,
+        bf16=torch.cuda.is_bf16_supported() if device == "cuda" else False,
+        fp16=(not torch.cuda.is_bf16_supported() if device == "cuda" else False),
         logging_steps=10,
         save_strategy="epoch",
         save_total_limit=2,
         remove_unused_columns=False,
         report_to="none",
+        dataloader_num_workers=4,
+        dataloader_pin_memory=(device == "cuda"),  # pin_memory causes issues on MPS
     )
 
     data_collator = DataCollatorForSeq2Seq(

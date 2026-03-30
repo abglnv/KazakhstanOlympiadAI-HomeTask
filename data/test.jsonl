@@ -1,0 +1,1001 @@
+{"input": "JSON output for: score = 80.6, the occupation is Mechanic, city: Santiago, country is Bulgaria, phone = +1-742-852-1467, the age is 45", "format": "json"}
+{"input": "Create a CSV record where city: Oslo and age: 55 and score: 37.2 and the country is Serbia", "format": "csv"}
+{"input": "Create a YAML record where country is United States, age: 31, phone is +18-096-427-5355, name = Donna Diaz, the score is 38.8, the occupation is Scientist", "format": "yaml"}
+{"input": "Represent as CSV: the email is diane_grant@gmail.com and score: 43.5 and age is 79 and city is Santiago and the occupation is Journalist and the name is Alice Holland", "format": "csv"}
+{"input": "Represent as CSV: the age is 73, email: abigailwalsh@outlook.com, occupation = Farmer and country is Latvia", "format": "csv"}
+{"input": "JSON output for: the score is 34.0 and phone = +44-997-666-8488", "format": "json"}
+{"input": "Give me YAML for: email is cheryl_ruiz@me.com; occupation: Musician; the name is Ethan Bailey", "format": "yaml"}
+{"input": "JSON output for: email = sandra_rojas@live.com and the score is 95.3", "format": "json"}
+{"input": "Generate JSON with the following: the country is Kazakhstan; phone: +3-685-287-5894 and email: brandonnguyen@hey.com", "format": "json"}
+{"input": "Convert to CSV: age = 22 and the country is Portugal and the score is 81.1 and city is Chicago and the occupation is Lawyer", "format": "csv"}
+{"input": "Create a CSV record where age: 30 and phone: +68-431-084-3134 and country is United States", "format": "csv"}
+{"input": "Generate JSON with the following: the score is 98.8; phone = +44-351-648-7064; city is Karachi and country: South Korea", "format": "json"}
+{"input": "Create a YAML record where the country is Germany and name is Lawrence Valdez", "format": "yaml"}
+{"input": "JSON \u2014 the name is Donald Castillo; city = Copenhagen; the occupation is Analyst; email is scott_barnes@gmail.com; age is 78", "format": "json"}
+{"input": "Write YAML: the email is alice_fisher@gmx.com; age = 65", "format": "yaml"}
+{"input": "Format this as YAML \u2014 occupation is Athlete; score = 92.8 and name: Emily Rogers", "format": "yaml"}
+{"input": "Represent as YAML: email = christinamedina@mail.ru; phone: +74-914-198-1421; age is 77; country: Brazil; occupation = Social Worker; the city is Bangkok", "format": "yaml"}
+{"input": "Create a YAML record where the city is Kyiv; country = Turkey; email = judith_jimenez@me.com; the age is 20 and occupation: Pilot", "format": "yaml"}
+{"input": "Create a CSV record where score: 4.1; age = 32; phone is +19-230-045-0537", "format": "csv"}
+{"input": "Format this as CSV \u2014 name = Marie Dunn and occupation: Security Analyst", "format": "csv"}
+{"input": "Give me CSV for: occupation: Veterinarian, phone: +79-772-080-0487, country = Czech Republic, name = Edward Marquez, score is 50.1", "format": "csv"}
+{"input": "Represent as CSV: email is judyjimenez@protonmail.com, score is 8.0, city is Osaka, country: Croatia", "format": "csv"}
+{"input": "JSON \u2014 the email is bryankelly@protonmail.com, city is Addis Ababa, age: 34", "format": "json"}
+{"input": "Transform into YAML: age: 57, the email is alan.nelson@mail.com, score is 51.2", "format": "yaml"}
+{"input": "CSV; email: abigailclark@gmail.com and phone = +77-124-231-5071 and score is 87.4 and the name is Elijah Bennett and the age is 50", "format": "csv"}
+{"input": "YAML output for: name = Keith Soto and score: 84.4 and the country is Sweden and the occupation is Researcher and the city is Dubai and phone = +23-969-455-2886", "format": "yaml"}
+{"input": "Produce JSON from this data: age is 70, name is Marilyn King and the city is Paris", "format": "json"}
+{"input": "Convert to JSON: country is Thailand and name: Martha Shaw and phone is +88-923-078-5511 and age = 48 and score = 56.0", "format": "json"}
+{"input": "Transform into CSV: the name is Ruth Cox, the country is Finland, email = karen_morgan@zoho.com, phone = +16-060-030-2343", "format": "csv"}
+{"input": "Format this as YAML \u2014 country: Australia, age = 67", "format": "yaml"}
+{"input": "Produce JSON from this data: city = Astana and email = kathryn.adams@fastmail.com and country = Bulgaria and the age is 66 and name: Grace Young", "format": "json"}
+{"input": "Please format as JSON: age = 58; score = 46.8; email is emily_young@aol.com; phone: +53-029-842-9786; occupation = Systems Administrator and the city is Astana", "format": "json"}
+{"input": "Give me JSON for: occupation = Biomedical Engineer and the country is Singapore", "format": "json"}
+{"input": "Represent as JSON: the age is 66; phone is +61-277-881-5191; the email is joe_griffin@live.com; the country is Ireland; occupation: Firefighter; name: Jordan Bell", "format": "json"}
+{"input": "Represent as JSON: country = Austria and name is Stephen Vargas and the age is 75", "format": "json"}
+{"input": "Create a JSON record where city is Cairo and age: 25", "format": "json"}
+{"input": "Produce CSV from this data: the name is Stephanie Perkins, occupation: Financial Advisor, the score is 96.9, phone: +27-786-548-5719, city: Casablanca, email: richard.valdez@zoho.com", "format": "csv"}
+{"input": "Produce YAML from this data: age is 64, the email is theresa.santiago@hey.com, country = Thailand and phone: +79-804-306-0931", "format": "yaml"}
+{"input": "Transform into JSON: name is Andrew Evans; score: 18.4; occupation: Carpenter; city is Paris; age = 64", "format": "json"}
+{"input": "I need YAML: country is Austria, score: 92.9, city is Panama City", "format": "yaml"}
+{"input": "Write CSV: city = Rio de Janeiro, phone: +79-536-321-0384, the score is 50.0", "format": "csv"}
+{"input": "YAML; the country is Russia and city is Casablanca and the name is Donna Bennett and the score is 74.9", "format": "yaml"}
+{"input": "Give me CSV for: the email is paulfoster@outlook.com; name: Joshua Butler", "format": "csv"}
+{"input": "Convert to CSV: country: Japan and age = 30 and occupation = CEO and phone = +27-896-508-4218", "format": "csv"}
+{"input": "Generate CSV with the following: age is 76, city = Riyadh, country: Turkey and the score is 96.7", "format": "csv"}
+{"input": "Format this as JSON \u2014 age: 45; the email is karen_mendoza@me.com; the phone is +88-651-450-9943; country is Mexico", "format": "json"}
+{"input": "Convert to CSV: age = 52; score = 28.5; email: william.smith@zoho.com; name: Stephanie Russell; country: Netherlands; occupation is Writer", "format": "csv"}
+{"input": "Transform into CSV: age: 32, phone: +80-606-317-0538, occupation is Translator and name is Sarah Gonzales", "format": "csv"}
+{"input": "Generate YAML with the following: the age is 58; phone is +14-479-670-1394; the occupation is Electrical Engineer; the name is Ann Thompson; city: Bogota", "format": "yaml"}
+{"input": "YAML \u2014 city: Taipei and the score is 53.5 and occupation: Statistician", "format": "yaml"}
+{"input": "Generate JSON with the following: the score is 46.6, phone is +39-559-067-0918, name: Janet Robinson, the occupation is Mathematician, email: dennis.phillips@hey.com", "format": "json"}
+{"input": "Convert to JSON: the occupation is Physicist and name = Carl Martinez and city: Lisbon and age = 77 and country is Latvia", "format": "json"}
+{"input": "Please format as CSV: age = 67 and city: Copenhagen and score is 11.1 and country: Switzerland and the email is terry_scott@live.com and phone = +77-135-221-9470", "format": "csv"}
+{"input": "Format this as YAML \u2014 score is 32.1 and city = Tehran and age = 39 and country: Italy", "format": "yaml"}
+{"input": "YAML output for: age = 20 and occupation: Accountant and score = 18.7 and email = georgeramos@aol.com", "format": "yaml"}
+{"input": "Generate JSON with the following: score = 32.4, the age is 63, name = Jonathan Medina, the country is India, occupation: Writer, phone: +95-271-571-5673", "format": "json"}
+{"input": "Output CSV format. score = 27.4 and country = Turkey and email is scott_clark@protonmail.com and name = Evelyn Santiago and the phone is +59-029-245-1208.", "format": "csv"}
+{"input": "Convert to CSV: the city is Baghdad, name: Benjamin Adams", "format": "csv"}
+{"input": "Produce YAML from this data: age: 62, city is Sao Paulo, phone: +73-645-294-0249, country is Estonia, the occupation is Designer", "format": "yaml"}
+{"input": "Produce YAML from this data: email: kathleen.santiago@zoho.com; age is 67; score = 89.8; country = Switzerland; name: Linda Scott", "format": "yaml"}
+{"input": "I need YAML: city is Minsk and the phone is +37-393-360-0421 and name: Kayla Wood and age = 20 and the occupation is Accountant and country: Greece", "format": "yaml"}
+{"input": "Transform into YAML: name is Doris Black, email = larryweber@tutanota.com, occupation is Chef, country is Brazil, city is Riyadh, score: 84.0", "format": "yaml"}
+{"input": "Create a JSON record where occupation = Accountant; phone: +5-992-888-5300; score = 84.5 and country is Ireland", "format": "json"}
+{"input": "Generate YAML with the following: country: Finland and occupation: Dancer and email = stephenprice@yahoo.com and score = 7.2", "format": "yaml"}
+{"input": "CSV; age = 73; score: 32.4", "format": "csv"}
+{"input": "JSON output for: occupation: Mathematician and phone: +37-560-763-4988 and score = 30.4 and name: Kathleen Medina and country: Australia and age is 18", "format": "json"}
+{"input": "CSV \u2014 age: 26; city is Sao Paulo; email: randy_rojas@inbox.com; name = Samuel Edwards; country is Netherlands and phone: +52-289-257-1432", "format": "csv"}
+{"input": "Transform into CSV: city: Hong Kong, phone = +68-999-179-6341", "format": "csv"}
+{"input": "Represent as YAML: score is 3.7 and age: 44 and the occupation is Product Manager and name is Gregory Bailey", "format": "yaml"}
+{"input": "Create a YAML record where city: Doha; email: charles.wilson@zoho.com; age = 65; the name is Diana Rios and phone: +11-803-260-1564", "format": "yaml"}
+{"input": "Generate JSON with the following: age: 66 and the city is New York and phone is +19-722-552-2898 and name: Gary Reed", "format": "json"}
+{"input": "Transform into JSON: occupation: Mechanical Engineer; city is Almaty and email is noah.rodriguez@pm.me", "format": "json"}
+{"input": "I need YAML: the email is janet_fisher@msn.com and city: Dhaka and phone is +39-525-072-5113", "format": "yaml"}
+{"input": "Output YAML format. the city is Kuwait City; age is 53; phone is +28-627-387-8711; country = Croatia; score: 92.7 and name is Vincent Edwards.", "format": "yaml"}
+{"input": "Convert to YAML: email is adam_reed@me.com; score is 56.6; phone: +14-108-593-9360; occupation = Chemist; city: Panama City", "format": "yaml"}
+{"input": "Output JSON format. name is Aaron Richardson; email = amanda.diaz@msn.com; country: India; the age is 19 and the city is New York.", "format": "json"}
+{"input": "YAML output for: email is stephen.martinez@icloud.com and country is South Korea and the name is Thomas Walker and age: 56 and city is Warsaw", "format": "yaml"}
+{"input": "Create a YAML record where phone: +7-221-033-0848; score: 69.4; age: 20; email is gabrielwilliams@mail.ru; the country is Nigeria; occupation is Electrician", "format": "yaml"}
+{"input": "Transform into JSON: the name is Jennifer Mendoza and occupation = Database Administrator and the country is Slovakia and the phone is +36-329-750-8757 and email: christina.grant@hotmail.com and city: Yerevan", "format": "json"}
+{"input": "Output JSON format. age = 29, email is lisa.bailey@protonmail.com, name is Lauren Fisher, the score is 24.5, occupation: Coach, phone: +10-521-843-0424.", "format": "json"}
+{"input": "Create a YAML record where name: Diane Smith, the email is johnny.cruz@pm.me, score is 90.0, country is Greece, age = 25, the occupation is Astronomer", "format": "yaml"}
+{"input": "Represent as JSON: age is 63 and the name is Daniel Rogers and email is megan.wright@outlook.com", "format": "json"}
+{"input": "Generate JSON with the following: email is brandon_palmer@tutanota.com; occupation = Business Analyst", "format": "json"}
+{"input": "Convert to JSON: age: 21 and name is Julie Chavez and email is olivia_sanders@yandex.com and phone = +24-126-570-0829", "format": "json"}
+{"input": "Output YAML format. the score is 1.6; email is samantha.barnes@gmail.com.", "format": "yaml"}
+{"input": "Please format as CSV: name: Danielle Nguyen and city is Baghdad and age: 77 and email = ambermcdonald@pm.me", "format": "csv"}
+{"input": "Represent as CSV: phone = +51-501-316-6475; email: david.white@fastmail.com; score = 43.4; city = Boston; the country is Poland", "format": "csv"}
+{"input": "Format this as CSV \u2014 the occupation is Coach and phone = +32-894-277-9406 and age: 41 and email is theresavasquez@live.com", "format": "csv"}
+{"input": "Generate CSV with the following: the country is Spain, email: melissa.mcdonald@pm.me, name: Rebecca Scott, score: 6.9, age: 45", "format": "csv"}
+{"input": "Format this as CSV \u2014 email = aaron.romero@hotmail.com and phone is +63-120-833-0511 and occupation: Librarian", "format": "csv"}
+{"input": "Write CSV: the score is 36.8 and phone: +94-271-675-9574 and name: Charlotte Garcia and email = kathleen_evans@inbox.com", "format": "csv"}
+{"input": "Please format as CSV: the email is andrew_morris@hey.com and score = 64.8 and city = Dhaka and the age is 78 and country = France", "format": "csv"}
+{"input": "Represent as JSON: the country is Lithuania; age = 66", "format": "json"}
+{"input": "CSV; age = 25 and email = williamferguson@fastmail.com and the phone is +18-034-226-5714", "format": "csv"}
+{"input": "Transform into JSON: city = Montevideo and email is judith.perry@gmail.com", "format": "json"}
+{"input": "Represent as YAML: age = 41 and country: Lithuania and city: Mexico City", "format": "yaml"}
+{"input": "JSON output for: country: Malaysia, the phone is +67-143-925-3774", "format": "json"}
+{"input": "Please format as CSV: city: Baku and email is cynthiaallen@mail.ru and score: 25.1 and country = Australia", "format": "csv"}
+{"input": "Write YAML: age = 66, occupation: Journalist, city: Cairo, email: sara_bailey@pm.me, name is George Long", "format": "yaml"}
+{"input": "Transform into CSV: the phone is +79-018-167-0999, country: Denmark", "format": "csv"}
+{"input": "CSV \u2014 age is 63; occupation = UX Designer; city = Kuala Lumpur", "format": "csv"}
+{"input": "I need YAML: name is Gabriel Price and the age is 67 and score: 18.5", "format": "yaml"}
+{"input": "Output CSV format. age is 20 and occupation = Data Scientist and city: Vilnius and name: Robert Palmer and score = 4.9.", "format": "csv"}
+{"input": "Format this as YAML \u2014 the score is 91.7 and the city is Paris and email is kevinkim@fastmail.com", "format": "yaml"}
+{"input": "Produce CSV from this data: city: Boston and occupation: Mechanical Engineer and phone = +60-520-216-1635 and the age is 61 and country = Austria and email is evelyn_palmer@tutanota.com", "format": "csv"}
+{"input": "Represent as JSON: city is Helsinki; phone = +25-745-552-4701; email = logan.shaw@tutanota.com; name: Maria Hall and score is 99.3", "format": "json"}
+{"input": "Output JSON format. the phone is +88-428-223-3441, occupation: Mathematician and age = 71.", "format": "json"}
+{"input": "Write JSON: name: Brian Ruiz, score is 61.8, email is justin.sanders@fastmail.com, country: Czech Republic and city: Cairo", "format": "json"}
+{"input": "Generate JSON with the following: the score is 47.8; country: Brazil; age: 24; city: Chennai; the name is Kayla Cox; email = nancy_price@gmx.com", "format": "json"}
+{"input": "Create a YAML record where the country is Romania, the city is Vienna, occupation: Software Engineer, phone is +91-320-108-0687", "format": "yaml"}
+{"input": "CSV; occupation: Aerospace Engineer and age: 45 and name: Nathan Johnson and email = christopher_brown@icloud.com", "format": "csv"}
+{"input": "Format this as CSV \u2014 score = 63.6 and the country is Croatia and email is katherinejenkins@aol.com and the name is Joshua Robinson", "format": "csv"}
+{"input": "Format this as JSON \u2014 the occupation is Statistician and the country is India and phone is +1-201-131-4763 and score is 8.1 and city: Bogota", "format": "json"}
+{"input": "JSON; occupation = Writer and name is Megan Cruz", "format": "json"}
+{"input": "YAML output for: the phone is +64-517-895-6269, the occupation is Biologist", "format": "yaml"}
+{"input": "JSON output for: occupation = Civil Engineer and score = 5.5", "format": "json"}
+{"input": "Convert to JSON: the country is Sweden and the phone is +92-671-434-5528 and score: 27.7 and age is 25 and occupation: Designer", "format": "json"}
+{"input": "Write YAML: score is 52.5; the age is 68; email: benjamin_powell@tutanota.com", "format": "yaml"}
+{"input": "Output JSON format. the email is melissabaker@pm.me; age: 75; city is Buenos Aires.", "format": "json"}
+{"input": "Output YAML format. the phone is +18-885-741-2154, name is Hannah Turner, city = Nairobi, score = 86.0.", "format": "yaml"}
+{"input": "Give me CSV for: the country is Latvia; email = christianwatson@icloud.com; age is 54; name: Carolyn Rojas; score: 20.6; the phone is +85-140-877-0850", "format": "csv"}
+{"input": "CSV; age is 32, the occupation is Industrial Engineer, score is 75.9, name = Marie Lopez, the country is Switzerland, phone: +69-554-250-2439", "format": "csv"}
+{"input": "Please format as CSV: country: Serbia; the email is elizabeth_morales@me.com; city is Dakar", "format": "csv"}
+{"input": "Give me JSON for: city: Toronto; occupation = Mechanical Engineer; the age is 42; the phone is +19-922-219-6264; the name is Alan Davis; email is samantha.russell@zoho.com", "format": "json"}
+{"input": "Produce CSV from this data: country = Australia and score = 63.5 and email = gabriel_ramos@live.com and the city is Helsinki and phone = +12-111-993-0743 and name is Joe Torres", "format": "csv"}
+{"input": "Create a CSV record where age = 58; the score is 59.9; name: Nicole Ruiz; city = Bogota; phone = +71-351-919-0393; the email is beverlyprice@yahoo.com", "format": "csv"}
+{"input": "Output JSON format. score is 82.7 and email = tyler_santiago@protonmail.com and country: South Korea.", "format": "json"}
+{"input": "Produce JSON from this data: email is emily.murphy@hey.com and country: Serbia and occupation = Architect", "format": "json"}
+{"input": "Please format as YAML: the city is Quito; the phone is +48-736-991-5139 and occupation: Mathematician", "format": "yaml"}
+{"input": "Generate JSON with the following: the occupation is Athlete; the city is Lisbon; email is jason_fisher@gmail.com; score is 88.8; phone = +13-340-504-1190; the name is Michael Nguyen", "format": "json"}
+{"input": "Output JSON format. occupation is Professor, phone is +43-759-304-6244.", "format": "json"}
+{"input": "JSON; city: Dakar; name = Daniel Walker; email is janice_cook@tutanota.com; the phone is +79-129-837-0670; country: Singapore", "format": "json"}
+{"input": "Create a YAML record where city = Havana; name: Nancy Parker and phone is +18-162-082-8681", "format": "yaml"}
+{"input": "Please format as JSON: age = 19, the name is Ronald Williams and city is Shanghai", "format": "json"}
+{"input": "Convert to JSON: the name is Kayla Miller, email = philip.ortiz@live.com, occupation is Systems Administrator, phone: +22-243-216-8214", "format": "json"}
+{"input": "Please format as CSV: occupation: Athlete, the city is Helsinki, the phone is +77-791-579-5202", "format": "csv"}
+{"input": "Please format as JSON: the occupation is Lawyer, name = Abigail White, country: Singapore", "format": "json"}
+{"input": "Give me JSON for: email = madisongonzalez@tutanota.com; country: Indonesia; score = 41.0", "format": "json"}
+{"input": "Generate JSON with the following: city is Kyiv, the email is adam.howard@tutanota.com, phone: +95-655-748-5734, name: Janet Davis, the age is 71 and country is Nigeria", "format": "json"}
+{"input": "Give me CSV for: phone: +71-995-102-5803; name is Dorothy Jackson; city is Bangkok; occupation: Teacher", "format": "csv"}
+{"input": "Give me JSON for: country = Germany, city = Copenhagen, name is Janice Wood, score is 82.7, the phone is +60-543-654-6757 and age: 77", "format": "json"}
+{"input": "Generate YAML with the following: name is Gerald Cook; occupation = Artist; country is Australia; the score is 46.8; city is Phoenix", "format": "yaml"}
+{"input": "JSON \u2014 the email is philipmorales@pm.me and city: Chennai and age = 74 and name is Susan Butler and the occupation is Veterinarian and score = 29.6", "format": "json"}
+{"input": "CSV; score = 20.7; the country is France; occupation is Architect; age = 60; email: shirley.green@hotmail.com; name is Jerry Green", "format": "csv"}
+{"input": "Give me YAML for: phone is +68-158-406-7964; the email is ashley_wolfe@outlook.com and occupation = Police Officer", "format": "yaml"}
+{"input": "YAML; age = 75, the phone is +81-654-555-0090, score is 97.1", "format": "yaml"}
+{"input": "Produce YAML from this data: email = rachelbrooks@pm.me; the age is 71; score is 68.0", "format": "yaml"}
+{"input": "Convert to JSON: phone is +57-997-392-7772; name = Jordan Weber; email: jessephillips@mail.ru; the occupation is Lawyer; the score is 95.6; country = Italy", "format": "json"}
+{"input": "Transform into JSON: the name is Kayla Perry and occupation: Social Worker and city is Dakar and the email is bryan_foster@outlook.com", "format": "json"}
+{"input": "Format this as CSV \u2014 occupation = Scientist; city is Yerevan; age = 65; email = jesse_sanders@aol.com", "format": "csv"}
+{"input": "Output CSV format. the score is 76.0; the age is 66; the country is Mexico; name: Susan Marquez and phone = +25-522-040-3529.", "format": "csv"}
+{"input": "I need CSV: email: mariagomez@icloud.com and the occupation is Pilot", "format": "csv"}
+{"input": "Generate CSV with the following: name: Ryan Edwards, the city is Zagreb, the score is 31.0, age: 56, country: Italy and email = kathleen_anderson@pm.me", "format": "csv"}
+{"input": "JSON \u2014 name is Charlotte Green and the score is 39.0 and the email is abigailbennett@outlook.com and the city is Boston and occupation: Sales Representative", "format": "json"}
+{"input": "Produce JSON from this data: age: 20 and the email is randy_gonzales@pm.me and occupation is Industrial Engineer and the name is Doris Sanders and phone is +33-111-499-3611", "format": "json"}
+{"input": "Transform into CSV: occupation: Software Engineer and score: 63.0 and city is Buenos Aires and age = 71 and email: bryan_scott@hotmail.com and phone is +56-597-265-3007", "format": "csv"}
+{"input": "Please format as JSON: age is 27 and phone: +25-884-241-0679 and occupation is Industrial Engineer and name = Barbara Jenkins and the email is judy_burns@mail.com and city: Sofia", "format": "json"}
+{"input": "YAML; the score is 3.4, age = 29 and city: Paris", "format": "yaml"}
+{"input": "Represent as CSV: email: heathersmith@yandex.com, score is 65.1, the name is Frances Perry and country is Uzbekistan", "format": "csv"}
+{"input": "Write JSON: email = hannah_kim@live.com and city: Budapest and name = Sara Johnson", "format": "json"}
+{"input": "Convert to CSV: score = 38.5; age = 29", "format": "csv"}
+{"input": "YAML; the age is 78, email: laurahoward@protonmail.com, the name is Albert Holland, occupation = Environmental Scientist, score is 20.3, city = Helsinki", "format": "yaml"}
+{"input": "Generate JSON with the following: country is Argentina, age is 64, phone = +54-412-443-3199", "format": "json"}
+{"input": "Represent as JSON: age is 64; the city is Madrid; name = Paul Patel; occupation is Mathematician; score is 55.8; phone: +30-433-578-0623", "format": "json"}
+{"input": "YAML \u2014 country: India, email is brandon_stewart@protonmail.com, city is Asuncion and score: 35.2", "format": "yaml"}
+{"input": "Please format as YAML: email = mariawatson@live.com, city is Berlin, country is Italy, occupation is UX Designer", "format": "yaml"}
+{"input": "I need CSV: country is Netherlands and phone = +55-122-727-1854 and name: Lauren Scott and the occupation is Architect and email = michael.perez@aol.com and age: 25", "format": "csv"}
+{"input": "YAML \u2014 occupation = Pilot and the city is Prague", "format": "yaml"}
+{"input": "Convert to YAML: the email is laura.warner@msn.com, country: Thailand, the city is Dublin, the score is 36.4", "format": "yaml"}
+{"input": "Generate JSON with the following: score: 96.2, the country is Switzerland, email is george.brooks@yahoo.com, occupation: Financial Advisor, age = 36", "format": "json"}
+{"input": "Write CSV: age is 45, country is Italy", "format": "csv"}
+{"input": "Output CSV format. the score is 53.0, city = Caracas, country = Mexico, phone is +83-733-899-3986, occupation = Chemist, name = Ronald Dunn.", "format": "csv"}
+{"input": "YAML output for: occupation is Athlete, score = 42.7, the name is Sandra Gomez", "format": "yaml"}
+{"input": "CSV output for: name = Roy Romero, occupation = CEO, phone = +21-140-837-1922, the city is Rio de Janeiro", "format": "csv"}
+{"input": "Transform into CSV: the name is Sara Diaz, occupation is Sales Representative, the score is 88.5 and the city is Hong Kong", "format": "csv"}
+{"input": "Output JSON format. score is 86.2 and phone is +42-879-724-0938.", "format": "json"}
+{"input": "Write YAML: the phone is +79-667-209-9253, the country is South Korea, score is 38.9, the name is Lauren Smith, the age is 33 and occupation: Financial Advisor", "format": "yaml"}
+{"input": "Represent as JSON: occupation is Actor and city: Doha", "format": "json"}
+{"input": "Please format as CSV: country = Hungary; score is 5.3; email: dylan_moore@msn.com; city is Doha; phone is +31-728-764-0554", "format": "csv"}
+{"input": "JSON output for: score: 9.9, email: austinrivera@yandex.com", "format": "json"}
+{"input": "CSV; age is 48 and the country is Bulgaria and phone is +78-420-118-3391 and score: 30.7 and occupation: Quality Assurance Engineer and name is Julie Murphy", "format": "csv"}
+{"input": "Format this as JSON \u2014 the country is Singapore; the score is 5.5", "format": "json"}
+{"input": "Create a CSV record where city = Brussels and country: Romania and occupation: Researcher and score is 48.6 and name is Samuel Reed and phone is +28-027-321-8485", "format": "csv"}
+{"input": "Please format as JSON: age = 62 and score is 63.9 and city = Istanbul and country: Poland", "format": "json"}
+{"input": "Write CSV: score is 90.8 and phone = +80-404-493-3416 and the occupation is Mechanical Engineer and the name is Patrick Peterson", "format": "csv"}
+{"input": "Write JSON: country is Vietnam and score is 43.1 and age is 73 and city is Bogota", "format": "json"}
+{"input": "Please format as CSV: age is 21, the city is Lagos, score = 36.7, name: Emma King and the email is carlhoward@hotmail.com", "format": "csv"}
+{"input": "Convert to JSON: email = mariebennett@inbox.com, score is 62.7, the occupation is Geologist", "format": "json"}
+{"input": "Write JSON: email is albertbrooks@yandex.com, the country is Slovakia, occupation is Social Worker, the city is San Jose", "format": "json"}
+{"input": "Transform into YAML: phone is +31-170-873-7129, the name is Frank Thomas, score: 49.0 and email is mark_davis@fastmail.com", "format": "yaml"}
+{"input": "CSV; country is France; phone = +92-211-818-6318; email = alice.myers@yandex.com; city: San Jose; the age is 50", "format": "csv"}
+{"input": "Produce JSON from this data: country is Switzerland and the name is Joe Bailey and the occupation is Systems Administrator and city is London", "format": "json"}
+{"input": "Write YAML: the age is 66 and email: philipholland@msn.com and city = Algiers and country = Romania and the name is Eugene Green and the occupation is DevOps Engineer", "format": "yaml"}
+{"input": "CSV output for: occupation: Writer and phone: +97-630-198-1350 and score = 41.2 and country: Italy and email is terry_thomas@tutanota.com", "format": "csv"}
+{"input": "Transform into CSV: age is 40 and phone is +84-849-184-5800", "format": "csv"}
+{"input": "Generate CSV with the following: age = 32, email is dylan.shaw@hey.com and the phone is +69-984-523-2727", "format": "csv"}
+{"input": "Create a CSV record where occupation = CEO; email: alexander_ferguson@yahoo.com; the score is 95.9; the country is Austria; name: Madison Kelly", "format": "csv"}
+{"input": "Write JSON: phone: +53-966-654-8775; city: Madrid; email = helen.jackson@yandex.com; country: Australia; occupation = Accountant; age is 47", "format": "json"}
+{"input": "Generate JSON with the following: age = 74, city = Algiers", "format": "json"}
+{"input": "Transform into YAML: city = Kolkata and score: 89.3 and the country is United Kingdom and name = Nicole Adams and the email is mary.flores@hey.com and phone: +2-727-598-4840", "format": "yaml"}
+{"input": "Format this as JSON \u2014 age is 27; email = amyrussell@mail.ru; city: Hong Kong; occupation = Dentist; name: Paul Howard", "format": "json"}
+{"input": "I need YAML: city = Tallinn and occupation: Astronomer", "format": "yaml"}
+{"input": "Give me CSV for: the email is roger_williams@me.com, the age is 78, city = Minsk", "format": "csv"}
+{"input": "Transform into CSV: the city is London; country = Turkey; score is 87.0; the email is sean_rios@gmx.com", "format": "csv"}
+{"input": "YAML output for: name: Brittany Fisher; occupation = Writer; the age is 51; score: 95.5", "format": "yaml"}
+{"input": "Generate JSON with the following: the country is Malaysia, the age is 69, email: kimberlyhughes@yahoo.com, name: Peter Bailey, the city is Moscow, occupation is Psychologist", "format": "json"}
+{"input": "Output CSV format. score = 19.9, occupation: Physicist, email is beverly.marquez@aol.com.", "format": "csv"}
+{"input": "Write JSON: score = 23.0 and occupation = Product Manager", "format": "json"}
+{"input": "Transform into JSON: the age is 76; the occupation is Professor; the phone is +53-601-386-9320; the name is Kayla Gutierrez; country: Australia; the city is Sofia", "format": "json"}
+{"input": "Please format as JSON: email = kevin_perkins@live.com, city is Amsterdam, age: 24, the name is Douglas Perez, occupation = Economist", "format": "json"}
+{"input": "JSON \u2014 occupation = Nurse, name is Willie Walker", "format": "json"}
+{"input": "YAML \u2014 email: austin.wood@yandex.com, occupation is Director", "format": "yaml"}
+{"input": "YAML; city: La Paz and name is Sarah Carter", "format": "yaml"}
+{"input": "Output JSON format. city = Tallinn; email is debra.murphy@fastmail.com; occupation is Astronomer and age is 34.", "format": "json"}
+{"input": "Output YAML format. the city is Copenhagen; the phone is +40-862-670-5626.", "format": "yaml"}
+{"input": "Transform into YAML: city is Prague and email: kathryn_weber@tutanota.com", "format": "yaml"}
+{"input": "CSV; email: jonathanrogers@gmx.com and phone: +39-995-069-1185 and name = Catherine Rodriguez and city: Cairo", "format": "csv"}
+{"input": "Write JSON: name is Katherine Chavez and age = 48 and email = timothy.hall@aol.com and occupation: Astronomer and city is Caracas and score: 8.6", "format": "json"}
+{"input": "YAML output for: the city is Bangkok and phone is +78-280-224-0425", "format": "yaml"}
+{"input": "Write JSON: name = Lisa Murphy and phone = +28-000-960-4348", "format": "json"}
+{"input": "Convert to CSV: occupation is UX Designer and name is Jerry Campbell and city is Delhi", "format": "csv"}
+{"input": "CSV output for: email: joseph_cooper@gmail.com and the score is 31.4", "format": "csv"}
+{"input": "Transform into JSON: the city is Houston and phone = +91-593-904-4703 and email is jeremykim@icloud.com and age: 40 and score is 62.4 and country = Norway", "format": "json"}
+{"input": "JSON \u2014 phone is +45-474-846-9004; name: Amanda Hughes; city: Amsterdam; email: ethanblack@mail.ru; score: 61.0; the occupation is Statistician", "format": "json"}
+{"input": "Please format as YAML: country: Germany and the name is Rebecca Garcia and the age is 40 and city = Manila and the email is kelly_lopez@gmail.com", "format": "yaml"}
+{"input": "CSV \u2014 phone is +72-694-209-0917 and country: Slovenia", "format": "csv"}
+{"input": "Transform into CSV: the occupation is Photographer and score is 61.1", "format": "csv"}
+{"input": "YAML; email = susanwalsh@icloud.com; age is 76", "format": "yaml"}
+{"input": "Produce YAML from this data: phone = +65-929-847-3183, the score is 70.6, name = Edward Jenkins, city: Kolkata", "format": "yaml"}
+{"input": "Convert to YAML: the occupation is Electrician; age: 72; score = 18.0; the city is San Francisco; country = Switzerland; phone is +32-490-197-8066", "format": "yaml"}
+{"input": "Format this as JSON \u2014 the name is Diane Peterson and city is Kyiv", "format": "json"}
+{"input": "Write JSON: occupation: Consultant, phone is +16-156-008-3750, name: Nicole Allen", "format": "json"}
+{"input": "Please format as CSV: age = 75 and email: diane_anderson@outlook.com and city: Belgrade and name is Heather Ramirez", "format": "csv"}
+{"input": "Format this as JSON \u2014 phone: +33-364-809-7380, the score is 4.0, city is Casablanca", "format": "json"}
+{"input": "Write JSON: age is 57 and name: John Shaw and occupation = Software Engineer and country = Czech Republic", "format": "json"}
+{"input": "Write YAML: country = Romania; city is Brussels; score: 52.2; email: johnny.campbell@zoho.com; the age is 27; the occupation is Statistician", "format": "yaml"}
+{"input": "Transform into JSON: age is 35 and score = 86.6", "format": "json"}
+{"input": "Create a YAML record where score: 45.3; city is Tashkent; the email is kelly.walsh@zoho.com; occupation = Web Developer; phone: +84-330-739-7372 and name = Brian Hall", "format": "yaml"}
+{"input": "Convert to CSV: score = 15.0 and phone: +64-975-473-5665 and email: joan_myers@protonmail.com", "format": "csv"}
+{"input": "JSON; score: 15.5 and occupation = Web Developer", "format": "json"}
+{"input": "Please format as YAML: name is Roger Powell and the phone is +78-718-852-6220 and the age is 66 and the country is France", "format": "yaml"}
+{"input": "Write CSV: the country is Hungary, occupation: Mechanic, city is Taipei, name: Emma Santiago", "format": "csv"}
+{"input": "Generate JSON with the following: occupation is Database Administrator; the city is Kolkata; name: Barbara Jones; phone: +97-952-635-6593; country = Denmark", "format": "json"}
+{"input": "JSON \u2014 city = Delhi; country = Singapore; age: 39; phone: +21-471-388-3409", "format": "json"}
+{"input": "Output JSON format. email is jason.carter@tutanota.com; score = 25.9 and name is Gloria Lewis.", "format": "json"}
+{"input": "Convert to JSON: the age is 50 and phone = +66-746-741-7673", "format": "json"}
+{"input": "Represent as CSV: the city is Addis Ababa; the phone is +53-234-731-3844; email: harry_white@gmx.com; the country is Japan; age: 44", "format": "csv"}
+{"input": "Generate YAML with the following: name is Roger Cook and city: Vilnius and score is 44.5 and country is India and occupation: Astronomer and email: beverly.morris@yahoo.com", "format": "yaml"}
+{"input": "Create a CSV record where phone is +92-967-808-4872 and the name is Peter Anderson and score: 38.5 and age: 38 and the city is Ljubljana and email: keith_rojas@msn.com", "format": "csv"}
+{"input": "CSV \u2014 the email is philipwilson@zoho.com; the phone is +36-432-182-2340; country is Belgium; occupation = Mechanical Engineer; the name is Shirley Aguilar and the score is 25.5", "format": "csv"}
+{"input": "CSV output for: phone is +68-181-293-8629, the age is 52, name: Kenneth Howard", "format": "csv"}
+{"input": "Write YAML: score is 52.2 and country is Malaysia and occupation: Police Officer and email: oliviajohnson@zoho.com and the phone is +77-033-859-9544 and name = Johnny Walker", "format": "yaml"}
+{"input": "Write CSV: occupation is Artist; the score is 81.3 and the age is 45", "format": "csv"}
+{"input": "Write JSON: the occupation is Researcher and name is Joshua Perez and the email is melissa.richardson@me.com and phone is +79-192-721-0132", "format": "json"}
+{"input": "Create a YAML record where country = Czech Republic; email = benjamin.rogers@hey.com; occupation = Game Developer; city: Dublin; phone = +88-323-015-8227; the score is 9.3", "format": "yaml"}
+{"input": "Output CSV format. email: diana.collins@hey.com and occupation is Psychologist.", "format": "csv"}
+{"input": "Give me JSON for: the phone is +78-401-320-8678, score: 20.6", "format": "json"}
+{"input": "Convert to CSV: city = Dublin, the country is Finland, email: brandoncooper@fastmail.com", "format": "csv"}
+{"input": "CSV; score is 70.5; the country is Singapore; age: 33; the occupation is Firefighter", "format": "csv"}
+{"input": "JSON; score = 89.2, name: Samuel Ward, country is Thailand and age is 53", "format": "json"}
+{"input": "Write YAML: email is josephprice@live.com and the country is Romania", "format": "yaml"}
+{"input": "Represent as YAML: the email is helenmorales@pm.me, name is Paul Taylor and the score is 98.2", "format": "yaml"}
+{"input": "Output JSON format. the country is Indonesia and the score is 27.6 and the phone is +79-196-548-1033 and occupation is CEO and the name is Emma Griffin and age is 59.", "format": "json"}
+{"input": "Represent as CSV: name is Steven Lopez and the phone is +78-656-717-0160", "format": "csv"}
+{"input": "I need JSON: phone = +47-475-610-3193, country is Portugal, the email is josephdiaz@icloud.com, name is Russell Holland, the occupation is Biomedical Engineer and the score is 47.8", "format": "json"}
+{"input": "Produce JSON from this data: phone = +44-071-262-4709; occupation: Farmer; the name is Kevin Gonzales; country is Nigeria and score is 0.4", "format": "json"}
+{"input": "JSON \u2014 email: michael.roberts@yahoo.com, phone = +44-328-425-3947, city = Delhi, score: 10.6 and name is Rebecca Walker", "format": "json"}
+{"input": "Output CSV format. country: Russia, occupation: Industrial Engineer, score = 71.0, the name is Jose Long.", "format": "csv"}
+{"input": "Produce CSV from this data: the occupation is Geologist; the city is Moscow; phone is +7-066-378-9309; score is 57.7; country is Indonesia and name is Roger Smith", "format": "csv"}
+{"input": "YAML output for: occupation is Doctor, name: Brandon Webb, age: 44, the phone is +5-171-640-8186, the email is austinmendoza@msn.com and city: Hong Kong", "format": "yaml"}
+{"input": "I need YAML: city: Houston and country is Argentina and phone = +96-387-153-3066 and email = aaronrussell@gmail.com and age: 55", "format": "yaml"}
+{"input": "Format this as YAML \u2014 the score is 17.2, phone: +78-948-621-6661, name is Alexis Watson", "format": "yaml"}
+{"input": "Create a JSON record where the city is Accra and email is ralph_reyes@hotmail.com and the score is 67.6 and age = 45", "format": "json"}
+{"input": "Convert to YAML: the age is 60, country = Czech Republic, score is 92.4, phone is +6-500-123-2392", "format": "yaml"}
+{"input": "Please format as YAML: the age is 18, phone: +50-069-461-7052", "format": "yaml"}
+{"input": "Output JSON format. occupation is Professor; city = Santiago.", "format": "json"}
+{"input": "Generate JSON with the following: the score is 68.4, phone: +1-368-307-3147, country = Ireland, occupation: UX Designer, email: ralphdavis@icloud.com, name is Henry Nelson", "format": "json"}
+{"input": "Create a YAML record where country is Japan and the phone is +64-913-416-4513 and city = Beijing and email: dorothy_jenkins@gmx.com and the occupation is Project Manager", "format": "yaml"}
+{"input": "Format this as CSV \u2014 occupation = Scientist, name is Carolyn Russell and the phone is +40-960-967-5199", "format": "csv"}
+{"input": "Format this as YAML \u2014 email: catherinehill@pm.me, name is Diane Moore, age is 24, country is Malaysia and score is 37.6", "format": "yaml"}
+{"input": "YAML \u2014 country: Belgium; email = petersoto@yandex.com; phone is +81-169-163-5625; the age is 63; name: Susan Bennett", "format": "yaml"}
+{"input": "Create a CSV record where age = 59 and phone = +81-913-421-5493", "format": "csv"}
+{"input": "YAML output for: age: 66; score is 1.5 and phone = +56-470-707-9379", "format": "yaml"}
+{"input": "Transform into YAML: name = Karen Henderson; age = 25; score is 91.7; phone: +21-523-236-7752; the city is Havana; email = carolyngreen@me.com", "format": "yaml"}
+{"input": "Give me YAML for: email is kayla.james@zoho.com and phone is +48-988-900-6460 and the country is Slovenia and occupation = Aerospace Engineer", "format": "yaml"}
+{"input": "Convert to YAML: name is Dorothy Chavez and age is 36 and the phone is +52-876-003-2295 and city = Copenhagen", "format": "yaml"}
+{"input": "Generate CSV with the following: country is Kazakhstan and score is 65.4 and city: Vienna and age: 76 and name is Amber Henderson and occupation is Nurse", "format": "csv"}
+{"input": "Convert to JSON: the phone is +43-202-436-5718, score: 17.4", "format": "json"}
+{"input": "Give me YAML for: the age is 39; name is Amanda Murphy and occupation = Chemical Engineer", "format": "yaml"}
+{"input": "Please format as JSON: occupation is Mechanical Engineer; score is 43.8; name is Deborah Medina", "format": "json"}
+{"input": "Represent as JSON: occupation is Radiologist, the email is virginia_warner@gmx.com, city is Minsk", "format": "json"}
+{"input": "Please format as YAML: age: 21, occupation is Photographer, score is 62.7 and city = Seattle", "format": "yaml"}
+{"input": "Convert to CSV: city: Algiers, country is Sweden, email: benjamin_wolfe@mail.ru, score is 55.4, phone is +54-848-603-3423", "format": "csv"}
+{"input": "Generate YAML with the following: name = Rebecca Rodriguez and email is grace_ross@tutanota.com", "format": "yaml"}
+{"input": "JSON \u2014 city is Istanbul; the age is 77; name is Mary Valdez", "format": "json"}
+{"input": "Please format as CSV: name is Sharon Jimenez; occupation = CTO; email = edwardwatson@yandex.com; phone is +85-449-250-7799; the city is Chicago", "format": "csv"}
+{"input": "Represent as CSV: the email is dylanaguilar@gmx.com and occupation = HR Manager", "format": "csv"}
+{"input": "Generate CSV with the following: phone is +81-194-181-9551 and the score is 43.7", "format": "csv"}
+{"input": "Generate JSON with the following: occupation = Industrial Engineer, name is Kyle Romero, age = 75 and the phone is +33-268-313-0686", "format": "json"}
+{"input": "Please format as YAML: the age is 27, country is Singapore, the name is Logan Moore, phone: +76-187-397-2417", "format": "yaml"}
+{"input": "Output JSON format. age: 25; country = Japan; email: brenda.rivera@hey.com.", "format": "json"}
+{"input": "Produce CSV from this data: city is La Paz and score = 55.6 and the email is jennifer.gonzales@outlook.com and the name is Catherine Martin and occupation: Manager and phone: +56-216-508-1262", "format": "csv"}
+{"input": "I need JSON: phone is +35-429-679-8169 and name: Benjamin Lee and email: michelle_valdez@me.com", "format": "json"}
+{"input": "Transform into YAML: score is 40.9 and the phone is +16-261-011-1918 and country = Japan and the name is Andrea Price and occupation: Electrical Engineer and city: Delhi", "format": "yaml"}
+{"input": "CSV \u2014 the phone is +46-548-604-4121, the score is 74.2, the country is United Kingdom, the occupation is Business Analyst, the email is harry_coleman@pm.me and city: Geneva", "format": "csv"}
+{"input": "I need CSV: the phone is +6-125-803-4659; age is 50; the name is Gary Reyes", "format": "csv"}
+{"input": "Transform into YAML: name: Marilyn Gonzalez; age: 34; phone is +65-484-938-0706; city: Ljubljana", "format": "yaml"}
+{"input": "Write JSON: name: Kathryn Burns; phone is +69-737-118-1529; email is nathancampbell@pm.me", "format": "json"}
+{"input": "Transform into JSON: city is Boston, the name is Mark Ramirez, phone is +54-851-453-8329 and country: Latvia", "format": "json"}
+{"input": "Please format as YAML: the phone is +7-055-884-4592; score = 86.3; the name is Bruce Cox; city = Denver; the age is 68", "format": "yaml"}
+{"input": "Format this as CSV \u2014 score: 0.0, age: 79, country is Latvia, email: jordangrant@yandex.com", "format": "csv"}
+{"input": "Write YAML: name: Gregory Kelly, score is 43.8, the age is 46, email = gregory_coleman@outlook.com, phone: +19-787-754-0488, the occupation is Mechanic", "format": "yaml"}
+{"input": "Transform into CSV: the email is adamcarter@protonmail.com, city is Houston, occupation is Producer", "format": "csv"}
+{"input": "CSV output for: the country is Greece; email is christina_gonzales@mail.com; the occupation is Mechanic; phone = +46-709-930-1158; age: 60", "format": "csv"}
+{"input": "JSON output for: the city is Taipei; email: terry_palmer@yahoo.com", "format": "json"}
+{"input": "Format this as JSON \u2014 the email is charlesmedina@mail.com, the score is 67.4, the city is San Francisco and name: Deborah Martinez", "format": "json"}
+{"input": "Convert to CSV: name is Laura Ferguson and occupation: Pilot", "format": "csv"}
+{"input": "Transform into YAML: name is Olivia White; country: Latvia; phone: +12-037-927-3900; the age is 27; email: carolyn_gonzales@hey.com; occupation is Architect", "format": "yaml"}
+{"input": "Create a YAML record where age is 80 and occupation is Biomedical Engineer and phone is +72-672-782-8122 and name: Anthony Edwards and city = Berlin", "format": "yaml"}
+{"input": "Please format as CSV: the age is 60, the email is karen.romero@hey.com", "format": "csv"}
+{"input": "Please format as CSV: email = nicole_reid@zoho.com and country = Australia and score = 88.2 and the city is Tunis and the occupation is Scientist and phone is +85-500-472-1714", "format": "csv"}
+{"input": "JSON \u2014 email = carolward@mail.com, occupation is Researcher, the country is Portugal, score = 87.1", "format": "json"}
+{"input": "Output JSON format. age: 33; country: Vietnam; name: Roger Ferguson; occupation is Pharmacist; score is 23.2; phone: +22-633-747-4313.", "format": "json"}
+{"input": "Convert to JSON: name is Theresa Green; city is Paris", "format": "json"}
+{"input": "Produce JSON from this data: the country is Thailand; city: Vienna; email: bobby_holland@tutanota.com; the phone is +61-775-896-3694; score: 62.9", "format": "json"}
+{"input": "I need YAML: country is Uzbekistan; occupation: Veterinarian; age = 79; email: martha_aguilar@mail.ru and city: Dhaka", "format": "yaml"}
+{"input": "JSON \u2014 phone = +27-373-453-5895, city = Dubai, occupation: Chemist, score: 49.2, email = patriciajenkins@me.com, age: 21", "format": "json"}
+{"input": "JSON output for: phone: +31-562-321-2762; occupation: Lawyer; the score is 43.4", "format": "json"}
+{"input": "Produce JSON from this data: the country is Spain and occupation: Electrical Engineer and phone is +97-714-510-0391 and city: Addis Ababa and score is 19.4 and age is 55", "format": "json"}
+{"input": "Represent as CSV: the age is 72 and occupation = Coach", "format": "csv"}
+{"input": "Give me JSON for: country: Sweden and score is 45.7", "format": "json"}
+{"input": "Convert to JSON: the occupation is HR Manager; score: 35.2; the email is kylerussell@live.com; city: Budapest; phone = +1-291-417-0683; country is Nigeria", "format": "json"}
+{"input": "CSV; phone = +58-962-014-0585; occupation: Director; age = 69; score = 76.4; name is Lauren Stewart and city: Helsinki", "format": "csv"}
+{"input": "Produce CSV from this data: score is 52.6; age: 36 and occupation is Biomedical Engineer", "format": "csv"}
+{"input": "YAML output for: the age is 59, phone is +49-284-015-8275, the city is Shanghai, the name is Gregory Jackson, score is 30.5, email: debra.lewis@outlook.com", "format": "yaml"}
+{"input": "Please format as CSV: name = Noah Rios and the phone is +60-923-707-1401 and the score is 87.3 and email is susanbaker@yandex.com", "format": "csv"}
+{"input": "Create a YAML record where phone: +12-879-255-2199, age: 44, the email is joshuagonzalez@msn.com, name is Gregory Mitchell, country: Nigeria, the city is Kuala Lumpur", "format": "yaml"}
+{"input": "YAML \u2014 name: Brian Robinson, email is austin_morris@zoho.com, occupation: Radiologist, the city is Osaka, the age is 71, country: Denmark", "format": "yaml"}
+{"input": "Please format as JSON: name is Abigail Lewis and score = 24.6", "format": "json"}
+{"input": "Please format as CSV: email: matthew_cruz@icloud.com, score = 44.0, the occupation is Dancer", "format": "csv"}
+{"input": "I need YAML: the country is Kazakhstan; phone: +33-454-682-7954; email is matthew_patel@outlook.com; city is Dublin", "format": "yaml"}
+{"input": "Format this as JSON \u2014 city is Kolkata and name = Harry Dunn and score = 24.1 and age = 50 and occupation = Database Administrator", "format": "json"}
+{"input": "Format this as CSV \u2014 phone = +32-511-370-2952 and the age is 63 and score = 72.5 and name = Samuel Wood and occupation: Radiologist and email = ronald.johnson@mail.com", "format": "csv"}
+{"input": "I need CSV: the country is Hungary and age: 77 and occupation: Pharmacist and phone is +99-760-806-5085", "format": "csv"}
+{"input": "Convert to YAML: email = jamesferguson@zoho.com and the occupation is Pharmacist and city is Zagreb and score = 77.0 and age = 68 and the name is Hannah Parker", "format": "yaml"}
+{"input": "Convert to CSV: occupation is Police Officer and country is Greece and score is 72.0 and name is Megan Williams and phone: +79-707-090-7749", "format": "csv"}
+{"input": "Output JSON format. occupation: Paramedic and age = 44 and email is terry.rios@gmx.com.", "format": "json"}
+{"input": "Please format as CSV: the age is 49; occupation is Mechanic", "format": "csv"}
+{"input": "Represent as YAML: city is Helsinki; occupation = Producer; the country is Philippines", "format": "yaml"}
+{"input": "Convert to JSON: age = 42 and the phone is +94-063-706-4640 and the country is Croatia and score = 24.7 and email = jose.ferguson@yandex.com and occupation: Marketing Specialist", "format": "json"}
+{"input": "JSON; the country is Portugal; city is Belgrade; score = 59.8; name = Anna Holland; phone: +84-998-973-1264; the age is 36", "format": "json"}
+{"input": "Please format as YAML: the country is Vietnam and name = Logan Bennett", "format": "yaml"}
+{"input": "Produce CSV from this data: the score is 70.3 and age is 60 and phone = +5-203-356-1187 and occupation = Social Worker", "format": "csv"}
+{"input": "Output YAML format. the score is 65.6 and the phone is +15-506-507-8192.", "format": "yaml"}
+{"input": "Convert to YAML: city is Doha; age is 65; phone: +87-988-236-1589", "format": "yaml"}
+{"input": "YAML \u2014 the age is 46, phone: +50-394-710-4595", "format": "yaml"}
+{"input": "Output CSV format. score: 16.5 and the phone is +73-523-807-5428 and occupation: Quality Assurance Engineer and city is Prague and the age is 31.", "format": "csv"}
+{"input": "Output CSV format. occupation is Astronomer and the age is 34.", "format": "csv"}
+{"input": "Give me CSV for: name is Jean Fisher; country = United States; the age is 75", "format": "csv"}
+{"input": "Format this as YAML \u2014 age: 66; country: Singapore; the name is Nicole Phillips; city: Accra; occupation = Director", "format": "yaml"}
+{"input": "Format this as CSV \u2014 email: austin_hall@live.com; phone: +3-624-305-0579; name: Samuel Chapman; country is Latvia and the occupation is Journalist", "format": "csv"}
+{"input": "Convert to JSON: occupation is Web Developer; phone = +92-422-888-6606; score is 5.2; city = Warsaw and email: carol_cox@live.com", "format": "json"}
+{"input": "Represent as YAML: age: 22; city: Hong Kong; the occupation is CTO; score = 2.1; country is France", "format": "yaml"}
+{"input": "YAML; the city is Tehran and occupation: UX Designer", "format": "yaml"}
+{"input": "Write CSV: score: 21.2; country = Nigeria", "format": "csv"}
+{"input": "Convert to CSV: phone is +82-748-288-9337 and the country is Canada and score is 76.8 and age: 50 and occupation is Veterinarian", "format": "csv"}
+{"input": "Please format as CSV: city is Dhaka and occupation = Social Worker and the name is Kelly Davis", "format": "csv"}
+{"input": "Produce JSON from this data: age is 52, phone is +85-071-211-9093 and the score is 93.6", "format": "json"}
+{"input": "JSON; the occupation is DevOps Engineer and name = Jeffrey Alvarez", "format": "json"}
+{"input": "Give me CSV for: occupation = Scientist and the phone is +99-247-087-0288 and city is Delhi and name: Albert Black", "format": "csv"}
+{"input": "Produce YAML from this data: score: 60.2; phone is +99-646-480-8157; the city is Oslo; country is Poland; the name is Brian Chavez and email: jessebrooks@tutanota.com", "format": "yaml"}
+{"input": "JSON \u2014 email = nicholasgreen@gmail.com and city: Bogota", "format": "json"}
+{"input": "Please format as YAML: name = Andrea Marquez and age = 43", "format": "yaml"}
+{"input": "Write CSV: city: Sao Paulo, the name is Pamela Lopez, occupation = Accountant, phone = +5-933-362-2619, score: 45.4", "format": "csv"}
+{"input": "Convert to YAML: the name is Shirley Rodriguez; email: kellylee@hotmail.com; country is Indonesia", "format": "yaml"}
+{"input": "Format this as JSON \u2014 age = 40, score is 13.8, email: philip_white@outlook.com, phone = +53-041-073-7308, name is Joseph Campbell", "format": "json"}
+{"input": "Format this as CSV \u2014 city = New York and country = Netherlands", "format": "csv"}
+{"input": "YAML output for: country = Netherlands and the email is gerald.brown@tutanota.com and score = 2.3 and the occupation is Electrician", "format": "yaml"}
+{"input": "Output YAML format. the phone is +68-596-898-2920 and the city is Mumbai and occupation = Firefighter and email: lorigarcia@inbox.com and age = 61 and the country is China.", "format": "yaml"}
+{"input": "Represent as YAML: occupation = Business Analyst; name = Amy Torres; email: russell.edwards@icloud.com; city = Phoenix; age: 32", "format": "yaml"}
+{"input": "Convert to JSON: phone: +21-425-696-6254; the score is 70.8; name: Kathleen White; age: 78", "format": "json"}
+{"input": "Produce YAML from this data: the score is 92.9, phone is +39-976-629-8375, name is Hannah Medina, the email is laura_chavez@hey.com, city = Lima", "format": "yaml"}
+{"input": "I need CSV: age: 78, country: Indonesia, the occupation is Business Analyst, name = Ronald Dunn, score is 95.1, the city is Mumbai", "format": "csv"}
+{"input": "Please format as YAML: city = Beijing, the email is jose_alvarez@outlook.com, phone is +22-936-282-7420", "format": "yaml"}
+{"input": "CSV; name: Mary Mcdonald and city = Bogota and email is walter_roberts@msn.com", "format": "csv"}
+{"input": "Generate YAML with the following: age = 43; email is alan_powell@tutanota.com; country = United Kingdom", "format": "yaml"}
+{"input": "CSV \u2014 city = Baku; score is 56.5", "format": "csv"}
+{"input": "JSON; age: 32 and score = 32.1 and country = Romania and name = Nathan Marquez and city is Lagos and the email is janetmorgan@mail.com", "format": "json"}
+{"input": "Create a YAML record where score: 81.5; phone is +10-466-106-2444; email is gloria_garcia@msn.com; the age is 47; the occupation is Pharmacist", "format": "yaml"}
+{"input": "Output JSON format. name is Christine Carter; occupation: HR Manager; country: Germany; age is 36.", "format": "json"}
+{"input": "Give me CSV for: email: ethan_flores@hotmail.com; the city is Algiers; the phone is +18-909-072-8759", "format": "csv"}
+{"input": "Represent as CSV: the email is bruce.gray@mail.ru and the occupation is Environmental Scientist and score: 5.0 and phone is +29-597-823-4265 and the name is Sara Thompson and country: Brazil", "format": "csv"}
+{"input": "Give me JSON for: age is 32; email is lauren_james@mail.ru; score is 48.7; phone = +11-225-195-3535; the city is Santiago and name = Christopher Lopez", "format": "json"}
+{"input": "CSV output for: city: Oslo and score = 76.8", "format": "csv"}
+{"input": "Write JSON: email is graceturner@pm.me and city = Sydney and country = Bulgaria and age: 63 and name is Larry Cruz and the occupation is Radiologist", "format": "json"}
+{"input": "Transform into JSON: occupation = Manager and the city is Zagreb and the country is Turkey and age = 73 and name: Sandra Edwards", "format": "json"}
+{"input": "JSON \u2014 country = Romania; phone = +39-856-440-5384; city is Cairo; email is joesimmons@aol.com; occupation: Pharmacist", "format": "json"}
+{"input": "CSV \u2014 the age is 70; occupation = Marketing Specialist", "format": "csv"}
+{"input": "Produce JSON from this data: email: dennis.walker@hey.com and the phone is +7-435-054-7396", "format": "json"}
+{"input": "JSON output for: country = Ireland and email = judith_rivera@msn.com and age: 77", "format": "json"}
+{"input": "I need CSV: age: 20, city is Rome, name = Heather Collins, phone = +85-215-082-7299", "format": "csv"}
+{"input": "Please format as JSON: occupation is Electrician; score: 93.9; city: Beijing; country = Ireland; age is 58; name = Kenneth Miller", "format": "json"}
+{"input": "Transform into CSV: city is Accra and country: China and name = Christina Thompson and occupation = Business Analyst", "format": "csv"}
+{"input": "Create a JSON record where the phone is +25-836-192-4066 and city is Tokyo and the occupation is Photographer and name = Eric Flores and the age is 42", "format": "json"}
+{"input": "YAML \u2014 the country is Singapore, email is steven_morgan@live.com, the city is Havana, the occupation is Physicist, age = 26", "format": "yaml"}
+{"input": "Generate JSON with the following: the email is janettaylor@inbox.com; the phone is +84-018-034-0305", "format": "json"}
+{"input": "Write JSON: age: 36 and name: Keith Adams", "format": "json"}
+{"input": "Output CSV format. phone: +34-233-604-3808 and score = 92.7 and country is Hungary and the age is 47 and name = Nicole Ruiz and the email is christina.mcdonald@hotmail.com.", "format": "csv"}
+{"input": "Output JSON format. the age is 37; city: San Francisco; the name is William Palmer; phone: +15-616-988-5063; the occupation is Mechanic.", "format": "json"}
+{"input": "Format this as CSV \u2014 age is 61, occupation is Artist, the email is laurenholland@gmx.com", "format": "csv"}
+{"input": "I need YAML: city: Phoenix and age = 66", "format": "yaml"}
+{"input": "Convert to YAML: occupation: Manager and age is 31", "format": "yaml"}
+{"input": "JSON; country = Serbia; name: Joe Martin; occupation: Mechanic", "format": "json"}
+{"input": "Produce JSON from this data: the score is 93.4; city is Baku; the age is 55 and name is Ethan Russell", "format": "json"}
+{"input": "Output CSV format. score = 61.1; phone is +69-877-856-7969; the email is gregory_vasquez@msn.com.", "format": "csv"}
+{"input": "Write YAML: name = Brian Collins and age: 21", "format": "yaml"}
+{"input": "Transform into CSV: the email is robertrodriguez@tutanota.com and country: Finland and city is Tokyo and score: 39.7 and age: 71", "format": "csv"}
+{"input": "YAML output for: phone = +40-657-023-4189; occupation is Biomedical Engineer; the age is 74; name = Samuel Bell; email = madison_howard@icloud.com; country = Poland", "format": "yaml"}
+{"input": "Create a CSV record where phone = +91-169-112-6667 and the occupation is Veterinarian and email = samantha_james@zoho.com and name = Jean Ferguson", "format": "csv"}
+{"input": "Generate JSON with the following: occupation is Producer, name is Anthony Sanchez", "format": "json"}
+{"input": "Write CSV: city = Chennai, occupation is Police Officer, country: Ireland, phone is +60-069-253-9002, email is patricia_sanchez@gmx.com, age: 51", "format": "csv"}
+{"input": "Produce YAML from this data: phone = +11-671-690-3828 and the country is Czech Republic and city: Tashkent and the occupation is Network Engineer and age = 62", "format": "yaml"}
+{"input": "Convert to JSON: phone: +97-334-107-5247 and the occupation is Paramedic and name = Dennis Allen", "format": "json"}
+{"input": "JSON output for: age = 51; city is Cape Town", "format": "json"}
+{"input": "Represent as CSV: city: Hanoi, the name is Catherine Coleman and phone is +25-349-302-7046", "format": "csv"}
+{"input": "Output CSV format. email is francesjackson@live.com and phone is +7-790-740-1006 and the score is 89.6 and the occupation is Writer.", "format": "csv"}
+{"input": "Produce YAML from this data: the country is Romania, age = 73, the email is anthony_martin@mail.com", "format": "yaml"}
+{"input": "Convert to CSV: the email is george_hill@yandex.com and the occupation is Police Officer and age: 73 and the phone is +11-439-759-1411 and score = 33.0", "format": "csv"}
+{"input": "Produce YAML from this data: phone = +84-862-555-6930 and city = Bucharest and country is Latvia and occupation is Data Scientist and age is 79 and name: John Wilson", "format": "yaml"}
+{"input": "Write YAML: the age is 60, phone = +10-990-016-9879, the name is Carol Chavez, occupation: Game Developer", "format": "yaml"}
+{"input": "YAML output for: the phone is +76-093-132-8319; city is Riyadh; age: 43; occupation: Astronomer; name = Anna Scott", "format": "yaml"}
+{"input": "I need CSV: name is Sharon Ramirez; score: 17.3; country is Romania; phone is +41-023-301-6369; age = 59; email is amanda.foster@aol.com", "format": "csv"}
+{"input": "Generate YAML with the following: city = Berlin, name = Evelyn Dunn, email: emmanguyen@msn.com", "format": "yaml"}
+{"input": "Create a YAML record where the score is 38.9 and phone: +82-743-562-0956 and age = 56 and the name is Alexander Cook and country is South Korea and the city is Dubai", "format": "yaml"}
+{"input": "Convert to YAML: city = Lagos; occupation = Biologist; phone: +38-040-681-6687; email is rachel_jenkins@gmail.com", "format": "yaml"}
+{"input": "Transform into YAML: age: 37, phone = +57-179-113-8753, score: 49.7, name: Nathan Watson", "format": "yaml"}
+{"input": "Generate CSV with the following: phone: +64-575-710-6222 and the score is 75.7 and the country is United Kingdom", "format": "csv"}
+{"input": "Give me JSON for: age = 57 and score: 63.7", "format": "json"}
+{"input": "JSON output for: occupation = Financial Advisor; city is Jakarta; email is joan.webb@protonmail.com; phone is +98-606-552-3489; age = 36; name: Ryan Lee", "format": "json"}
+{"input": "I need JSON: phone = +95-258-959-5364 and country = Serbia and name = Austin Griffin and the occupation is Web Developer", "format": "json"}
+{"input": "Please format as YAML: occupation is Data Scientist and the age is 33 and the phone is +12-558-267-3603 and name is Frank Black and score = 76.5 and email: denise.reid@pm.me", "format": "yaml"}
+{"input": "Please format as CSV: occupation = Pilot; phone: +43-777-685-4708; name is Emily Adams", "format": "csv"}
+{"input": "Format this as CSV \u2014 occupation: Athlete; score is 6.6; phone is +23-229-785-9738", "format": "csv"}
+{"input": "Please format as YAML: occupation: Accountant and city: Zagreb and the email is keith_martinez@hotmail.com and the name is Kathleen Ortiz and age: 21 and phone = +7-819-622-8192", "format": "yaml"}
+{"input": "I need CSV: city: Copenhagen and the score is 85.8 and the name is Joan Perez and country: Belgium", "format": "csv"}
+{"input": "Output YAML format. occupation = Designer and the city is Casablanca and age: 46.", "format": "yaml"}
+{"input": "YAML \u2014 the phone is +80-992-109-9021, occupation is Translator, name = Christopher Castillo", "format": "yaml"}
+{"input": "Create a JSON record where city = Dubai, score = 95.2 and occupation: Civil Engineer", "format": "json"}
+{"input": "Give me JSON for: the name is Kyle Brooks, score: 81.6, country is Canada, phone = +43-390-485-2905", "format": "json"}
+{"input": "Create a JSON record where age is 44, the score is 36.4, occupation is Librarian", "format": "json"}
+{"input": "Please format as YAML: age: 55 and phone is +82-161-516-9175", "format": "yaml"}
+{"input": "Give me YAML for: the occupation is Chemist; age = 76; phone is +42-038-514-4880", "format": "yaml"}
+{"input": "Write CSV: age is 68; the city is Vilnius and occupation is Social Worker", "format": "csv"}
+{"input": "Transform into CSV: city: Bratislava and the occupation is Scientist and the phone is +76-700-866-5074 and email is emma.collins@aol.com", "format": "csv"}
+{"input": "Format this as CSV \u2014 email is kelly_soto@hotmail.com and age = 31", "format": "csv"}
+{"input": "Transform into CSV: the phone is +75-462-682-3269 and age is 48", "format": "csv"}
+{"input": "Format this as CSV \u2014 phone = +50-671-629-0667, the age is 55, email = keithrussell@mail.ru, occupation is Translator, name = Thomas Jackson", "format": "csv"}
+{"input": "CSV; occupation is Database Administrator and the age is 22 and the phone is +23-391-046-4798 and the name is Ronald Medina", "format": "csv"}
+{"input": "Give me YAML for: age = 48, the score is 10.1 and occupation is CTO", "format": "yaml"}
+{"input": "Output YAML format. score is 27.9 and age is 24.", "format": "yaml"}
+{"input": "Give me YAML for: country is Croatia and score is 43.7 and email: raymondbrown@hey.com and age is 68 and the occupation is Dentist", "format": "yaml"}
+{"input": "Represent as YAML: the country is Belgium and name: Jesse Castillo", "format": "yaml"}
+{"input": "Generate JSON with the following: the score is 25.5 and age: 43 and the phone is +29-360-619-5764 and city: Asuncion", "format": "json"}
+{"input": "Create a JSON record where age = 73; occupation = Plumber; phone = +69-196-560-0548; country = Italy; city = Sydney and email: janetvasquez@mail.com", "format": "json"}
+{"input": "Please format as YAML: the email is kimberly_coleman@hey.com; phone = +64-809-873-6411; age is 31; city = Hong Kong; name = Janice Williams; occupation = Psychologist", "format": "yaml"}
+{"input": "Convert to YAML: age = 71, city = Stockholm, the name is Alexander Diaz, the score is 8.6, country = Philippines, email: edward_dunn@zoho.com", "format": "yaml"}
+{"input": "CSV; age = 75; email is charles.robinson@protonmail.com; the country is Spain; occupation = Designer", "format": "csv"}
+{"input": "Write YAML: the occupation is Software Engineer and the country is Egypt and phone: +8-207-632-7748 and city = Toronto and email = sophia_richardson@fastmail.com", "format": "yaml"}
+{"input": "Produce CSV from this data: phone = +28-316-572-3974; the occupation is Architect", "format": "csv"}
+{"input": "Give me JSON for: country: Nigeria and phone: +99-908-857-9475 and email: kelly_kim@gmail.com and score = 79.4 and age = 49 and occupation is Product Manager", "format": "json"}
+{"input": "Generate CSV with the following: age is 28, city: Buenos Aires, name = Noah King and email = kevin_grant@outlook.com", "format": "csv"}
+{"input": "CSV \u2014 the score is 36.1 and age: 68 and the phone is +66-725-339-8578 and the city is Buenos Aires and occupation: Architect", "format": "csv"}
+{"input": "Write JSON: score = 16.5; occupation is Teacher", "format": "json"}
+{"input": "Represent as YAML: the score is 82.6 and city: Singapore and country = Ireland and name: Madison Coleman and age = 55", "format": "yaml"}
+{"input": "YAML output for: name is Russell Roberts and age is 61", "format": "yaml"}
+{"input": "Give me JSON for: phone: +60-061-267-0939 and the age is 64 and city is Vienna and email: russell_long@inbox.com", "format": "json"}
+{"input": "Create a JSON record where country: Thailand, phone: +1-864-304-4103, email: nathan_morris@yahoo.com, score: 25.2 and city: Rio de Janeiro", "format": "json"}
+{"input": "Produce JSON from this data: the phone is +69-935-352-5095 and age: 46 and email: larryrios@yandex.com", "format": "json"}
+{"input": "Convert to JSON: occupation = Database Administrator and the name is David Young and the score is 12.1 and email = frank.turner@yahoo.com and country = Netherlands", "format": "json"}
+{"input": "Transform into JSON: score is 48.8; country = Mexico; phone is +68-684-360-6965; occupation is Pharmacist; email is peter_reed@yahoo.com; city: Nairobi", "format": "json"}
+{"input": "Format this as JSON \u2014 the occupation is Business Analyst, country is Greece, email = donna_torres@hey.com and age is 44", "format": "json"}
+{"input": "I need JSON: the city is Copenhagen, age = 20, the email is virginia_henderson@pm.me, score = 32.5, the phone is +7-226-797-0270, the name is Kathryn Rogers", "format": "json"}
+{"input": "Write YAML: the city is Prague and occupation = Electrician and score: 38.4 and email: joseph.mendoza@yandex.com and country: United Kingdom and the age is 25", "format": "yaml"}
+{"input": "Write CSV: the occupation is Paramedic and the phone is +10-377-619-3541 and city = Warsaw and name = Charlotte Reyes and email is teresa.garcia@inbox.com and score = 61.7", "format": "csv"}
+{"input": "CSV output for: country = Latvia; age is 35; the city is Sydney and email is albertgomez@pm.me", "format": "csv"}
+{"input": "Produce YAML from this data: name is Randy Taylor, the phone is +83-038-369-1987, score = 63.2, occupation is Quality Assurance Engineer, the age is 54", "format": "yaml"}
+{"input": "Represent as YAML: age is 63 and occupation: Statistician and email is noahmorgan@gmx.com and the phone is +40-195-521-7980", "format": "yaml"}
+{"input": "Convert to CSV: age is 67 and score = 64.1", "format": "csv"}
+{"input": "Represent as JSON: score: 31.3, name = Pamela Holland, occupation: Artist, city is Dublin, email is raymond.scott@msn.com, phone is +24-981-875-8388", "format": "json"}
+{"input": "Give me YAML for: age: 71, country: Slovenia, the city is Caracas, occupation: Database Administrator, phone: +91-219-067-1602, the email is brittanykim@live.com", "format": "yaml"}
+{"input": "Transform into CSV: name = Joseph Cruz and email = victoria_carter@live.com", "format": "csv"}
+{"input": "Give me CSV for: name = Maria Ward, score = 97.8, phone = +46-557-740-5019 and country: Slovenia", "format": "csv"}
+{"input": "Please format as CSV: score is 93.4; the age is 56; name is Jacqueline Fisher", "format": "csv"}
+{"input": "Please format as YAML: the country is Estonia; phone = +55-713-966-1160; score = 69.1 and email = steven_jackson@live.com", "format": "yaml"}
+{"input": "Please format as CSV: occupation: Industrial Engineer; email is helen.patel@hey.com; phone is +88-838-475-6031 and country is Germany", "format": "csv"}
+{"input": "Transform into CSV: city is Jakarta and occupation is Radiologist and the country is Slovenia and email: amy_sullivan@icloud.com and age is 37", "format": "csv"}
+{"input": "Format this as YAML \u2014 age = 59 and email = kyle.chapman@msn.com", "format": "yaml"}
+{"input": "Convert to YAML: country: United States and name is Roy Powell", "format": "yaml"}
+{"input": "Give me CSV for: the age is 47, the country is Singapore", "format": "csv"}
+{"input": "Generate JSON with the following: occupation: Veterinarian and name is Samantha Bailey", "format": "json"}
+{"input": "Generate JSON with the following: the score is 20.9, age: 52, name: Ann Rogers", "format": "json"}
+{"input": "CSV \u2014 email = amy_mitchell@msn.com and phone: +28-001-958-6841", "format": "csv"}
+{"input": "Give me CSV for: the name is Kimberly Hall; score = 10.1; the age is 38; occupation is Marketing Specialist; phone is +90-094-198-2036 and email: philipthomas@live.com", "format": "csv"}
+{"input": "Transform into JSON: country is Latvia, occupation is UX Designer, email: garyrivera@msn.com, the age is 58 and phone is +23-239-170-2199", "format": "json"}
+{"input": "Create a CSV record where occupation is Chemist and score: 76.7 and name: Alice Martinez and the age is 80", "format": "csv"}
+{"input": "Convert to JSON: name is Ralph Weber and city: Almaty and score: 53.7 and occupation: Doctor and phone = +83-607-749-4973", "format": "json"}
+{"input": "Represent as JSON: email = edward.fox@hotmail.com and city = Delhi and occupation: Security Analyst", "format": "json"}
+{"input": "CSV; the country is Netherlands and city = London and age is 21", "format": "csv"}
+{"input": "Write YAML: age = 80 and occupation = Data Scientist and phone = +90-471-890-0166 and score is 51.4", "format": "yaml"}
+{"input": "I need CSV: name: Randy Kim and email is keithgonzalez@hotmail.com and occupation is Aerospace Engineer and phone: +34-112-397-7435 and country: India and score is 5.1", "format": "csv"}
+{"input": "I need CSV: occupation = Chemist; phone = +59-053-713-1636; city: Stockholm; score = 78.1; name is Ethan Alvarez and the age is 74", "format": "csv"}
+{"input": "Give me YAML for: phone = +29-741-628-7915; occupation: Plumber; name is John Shaw; the city is Vienna; country: Italy; score is 36.2", "format": "yaml"}
+{"input": "Output CSV format. occupation is Researcher and email: alexis_vasquez@pm.me.", "format": "csv"}
+{"input": "I need YAML: the score is 9.8; the phone is +89-415-646-1738", "format": "yaml"}
+{"input": "Format this as YAML \u2014 phone: +44-435-542-8214; occupation is Quality Assurance Engineer; the name is Roger Marquez; the age is 43; score = 49.4", "format": "yaml"}
+{"input": "Transform into YAML: age: 62 and country: Lithuania", "format": "yaml"}
+{"input": "I need YAML: occupation: Astronomer and age: 26", "format": "yaml"}
+{"input": "Produce JSON from this data: phone: +26-988-230-9497, age is 30, city: Havana, the occupation is Biologist, name is Bobby Gutierrez", "format": "json"}
+{"input": "Convert to JSON: phone = +51-797-735-1394 and city: Lagos and the occupation is Dentist and score = 79.7", "format": "json"}
+{"input": "Please format as YAML: the score is 89.9; name: Stephanie Adams; country: Kazakhstan; city is Bangkok; email is joycemoore@pm.me", "format": "yaml"}
+{"input": "Output CSV format. occupation: Producer; phone is +11-433-998-4657; the email is daniel.collins@gmail.com; the city is Montevideo; score is 36.4.", "format": "csv"}
+{"input": "Write YAML: email = alexis_cooper@fastmail.com and score: 31.6 and the phone is +45-883-998-4613", "format": "yaml"}
+{"input": "CSV; age: 61, score is 14.6, occupation: Electrician and phone = +23-476-077-3045", "format": "csv"}
+{"input": "YAML; score: 23.7, email = laurasantiago@hotmail.com and phone is +25-246-967-8591", "format": "yaml"}
+{"input": "Please format as CSV: city: Paris and age is 36 and email: randyking@yandex.com and the country is Singapore", "format": "csv"}
+{"input": "Transform into YAML: the phone is +32-318-825-5754, name = Rachel Powell, email is williealvarez@pm.me and the city is Miami", "format": "yaml"}
+{"input": "Write YAML: the occupation is Designer and score: 75.5 and city: Taipei", "format": "yaml"}
+{"input": "Write CSV: score: 2.1; the age is 44; phone: +59-028-791-5645; email = joyce.perry@tutanota.com and occupation: Mechanical Engineer", "format": "csv"}
+{"input": "Create a CSV record where the score is 72.7; the city is Tbilisi; name: Paul Morris; email is mary_reed@yandex.com; occupation: Chemist; the phone is +75-597-187-9474", "format": "csv"}
+{"input": "Create a JSON record where email is jordanwatson@me.com, name is Sarah Barnes, score = 56.4, city: Zagreb, occupation: Director", "format": "json"}
+{"input": "CSV; country is Mexico; phone: +46-919-727-9711; name: Nathan Ruiz; score is 85.9; the email is aaron.alvarez@icloud.com; the city is Belgrade", "format": "csv"}
+{"input": "YAML output for: country is Argentina, age: 38, email = frances_parker@fastmail.com", "format": "yaml"}
+{"input": "CSV output for: city = Tokyo, score: 60.5", "format": "csv"}
+{"input": "Generate JSON with the following: the email is katherinechapman@me.com, occupation is Journalist, the age is 35, score is 37.0, the phone is +40-173-780-5576", "format": "json"}
+{"input": "Please format as JSON: the score is 94.5 and the city is Ljubljana and email is stephen_fox@mail.com", "format": "json"}
+{"input": "Format this as CSV \u2014 score = 76.9, name = Sophia Robinson, the age is 78", "format": "csv"}
+{"input": "Please format as CSV: occupation is Systems Administrator, the phone is +33-841-279-9227, score is 62.0", "format": "csv"}
+{"input": "Generate YAML with the following: email: lawrenceromero@tutanota.com; the phone is +2-761-616-9768; occupation is Biomedical Engineer", "format": "yaml"}
+{"input": "Please format as CSV: city = Belgrade and the occupation is Editor and country: Singapore and name is Christine Gonzales and phone is +72-125-949-5338 and email is joe_gutierrez@yandex.com", "format": "csv"}
+{"input": "Output YAML format. city: Kuwait City and the email is noahbutler@protonmail.com and score: 11.8 and phone = +17-867-529-6840 and country: Portugal.", "format": "yaml"}
+{"input": "Represent as CSV: age = 58 and phone is +35-593-182-7795 and the email is josehenderson@outlook.com and city is Zagreb and the score is 33.7", "format": "csv"}
+{"input": "Generate JSON with the following: name is Zachary Wolfe; city: Houston; phone = +15-177-806-1796; score = 65.9; country is Greece and the occupation is Farmer", "format": "json"}
+{"input": "Give me YAML for: score = 10.6; occupation = Lawyer; country: Serbia", "format": "yaml"}
+{"input": "Give me JSON for: email: nathanruiz@mail.ru; country: Slovenia; score: 87.2", "format": "json"}
+{"input": "Give me CSV for: score: 77.7, name: Alexander Barnes, the email is joemedina@msn.com, country is Hungary, occupation = Marketing Specialist", "format": "csv"}
+{"input": "YAML; the age is 21, occupation: Sales Representative, phone = +95-638-515-9691, the city is Budapest and country = India", "format": "yaml"}
+{"input": "Output YAML format. email: virginia_myers@me.com, name: Lori Allen, age = 38, phone = +59-539-925-2934.", "format": "yaml"}
+{"input": "I need JSON: the age is 58, occupation is Consultant, the phone is +59-568-661-8767", "format": "json"}
+{"input": "Produce CSV from this data: occupation: Marketing Specialist; country: Indonesia; email: joshuacoleman@yahoo.com; city is Singapore", "format": "csv"}
+{"input": "Please format as CSV: the occupation is Dancer, city: Bogota, score is 15.9, the phone is +16-420-175-4862", "format": "csv"}
+{"input": "Write CSV: the name is Willie Warner and the email is eric_barnes@inbox.com", "format": "csv"}
+{"input": "Please format as JSON: occupation: Statistician and name = Roy Allen", "format": "json"}
+{"input": "Format this as YAML \u2014 the score is 12.2 and phone = +56-790-083-8682", "format": "yaml"}
+{"input": "Output CSV format. age: 34 and the name is Douglas Wolfe and email = victoria_smith@live.com and occupation = Dentist.", "format": "csv"}
+{"input": "CSV \u2014 occupation = Pilot and country: Romania and the age is 35", "format": "csv"}
+{"input": "Transform into CSV: occupation = Aerospace Engineer, the phone is +21-876-575-0738 and city = Prague", "format": "csv"}
+{"input": "Generate CSV with the following: country is Belgium, name: Alexis Marquez, score = 2.2, occupation: Security Analyst, city is Warsaw, phone = +19-156-432-0735", "format": "csv"}
+{"input": "Output YAML format. the country is Indonesia, occupation is Astronomer, age: 43, email is beverlymorris@gmail.com, the city is Tehran, score is 44.9.", "format": "yaml"}
+{"input": "Format this as CSV \u2014 name = Rebecca Harris, score: 73.3, country = India, city: Tashkent, phone is +17-798-423-7492", "format": "csv"}
+{"input": "Transform into CSV: score is 44.1; email = keithweber@fastmail.com; the city is Buenos Aires; country: Brazil; occupation: Photographer; the name is Lauren Perkins", "format": "csv"}
+{"input": "Format this as JSON \u2014 name = Kenneth Hall, occupation is Aerospace Engineer, the age is 21", "format": "json"}
+{"input": "Create a CSV record where age is 61, score = 81.8, email = bradleypatel@me.com, the phone is +63-813-904-4658", "format": "csv"}
+{"input": "Format this as YAML \u2014 age is 65, score = 85.8, city is Belgrade", "format": "yaml"}
+{"input": "Output YAML format. city is Baghdad, country: Ireland, email = andreagreen@hey.com, phone = +65-273-555-5689, the age is 44 and name is Jesse Nguyen.", "format": "yaml"}
+{"input": "Give me YAML for: city: Boston; the occupation is Coach", "format": "yaml"}
+{"input": "Format this as JSON \u2014 email = edwardblack@inbox.com and country = Russia and score: 99.5", "format": "json"}
+{"input": "Transform into CSV: country = South Korea, name: Shirley Diaz, city is Copenhagen, the occupation is Biomedical Engineer, phone: +68-931-958-8127, score is 18.3", "format": "csv"}
+{"input": "Produce CSV from this data: score: 73.0, occupation is Environmental Scientist", "format": "csv"}
+{"input": "Write CSV: country is Egypt, the city is Rome, the score is 4.4 and phone = +90-607-277-5002", "format": "csv"}
+{"input": "CSV; score is 81.6; occupation: Athlete; name is Henry Thomas; country = Sweden; age is 58 and email is samantha_morgan@icloud.com", "format": "csv"}
+{"input": "Please format as YAML: the name is Thomas Marquez and country is Greece", "format": "yaml"}
+{"input": "Convert to CSV: the phone is +97-747-733-3788 and email: nicholas.rios@pm.me", "format": "csv"}
+{"input": "Give me YAML for: occupation: Nurse; name is Harold Scott; age is 24; the score is 0.3 and email = scott_mendoza@icloud.com", "format": "yaml"}
+{"input": "JSON; score is 78.0 and the phone is +11-301-520-3006", "format": "json"}
+{"input": "CSV output for: email: tylerholland@pm.me and the score is 27.2 and name is Dennis Romero", "format": "csv"}
+{"input": "Create a JSON record where city = Amsterdam, name: Sara Perkins, the occupation is Product Manager, phone = +41-628-078-3409", "format": "json"}
+{"input": "Convert to JSON: the age is 20; email is jesse_watson@protonmail.com", "format": "json"}
+{"input": "Give me CSV for: city: Kuala Lumpur, name = Grace Powell and occupation is Police Officer", "format": "csv"}
+{"input": "I need YAML: city is Bucharest, occupation: Translator, name = Elizabeth Rivera, age is 77, phone is +81-108-410-6338, the country is Malaysia", "format": "yaml"}
+{"input": "Write JSON: age: 33 and score is 56.5 and phone is +69-765-253-5275", "format": "json"}
+{"input": "Produce JSON from this data: country is Vietnam, email: bradleystewart@pm.me and the score is 26.6", "format": "json"}
+{"input": "CSV; age = 31 and phone: +8-617-237-8693", "format": "csv"}
+{"input": "CSV output for: phone = +26-330-871-5182, the score is 10.8", "format": "csv"}
+{"input": "Please format as CSV: country = India; the email is emma.mendoza@protonmail.com", "format": "csv"}
+{"input": "Create a YAML record where the email is hannah_ramirez@mail.com; the age is 37; score = 29.2; the name is Christine Robinson; country = Italy", "format": "yaml"}
+{"input": "JSON \u2014 the name is Christopher Jackson and score: 61.1 and email = laura_gray@gmx.com and the phone is +72-439-763-1831 and city is Moscow and age: 73", "format": "json"}
+{"input": "Represent as JSON: the country is Serbia, the name is Scott Wright, the occupation is DevOps Engineer, the age is 65, city: Sydney and phone: +31-521-302-1223", "format": "json"}
+{"input": "YAML; age = 61; email: isabella_dunn@tutanota.com; the name is Richard Valdez and the city is Kolkata", "format": "yaml"}
+{"input": "YAML output for: country is Brazil and email is lisa.campbell@zoho.com and occupation is Veterinarian and city is Doha and the name is Brian Davis", "format": "yaml"}
+{"input": "Convert to CSV: score is 73.6 and occupation = Industrial Engineer and phone: +61-525-759-6944 and email is mary_jenkins@mail.ru and country = Sweden", "format": "csv"}
+{"input": "Please format as YAML: name is Victoria Lopez, city = Johannesburg", "format": "yaml"}
+{"input": "Output JSON format. occupation is Statistician, name = Nicole Rogers, country: Romania, the email is daniel.barnes@live.com.", "format": "json"}
+{"input": "Represent as YAML: score: 82.5, age: 60", "format": "yaml"}
+{"input": "Output CSV format. score = 18.8; city = Montevideo and country = Vietnam.", "format": "csv"}
+{"input": "Generate JSON with the following: name = Kathryn Rodriguez; age: 61; email is lauren_mcdonald@mail.ru", "format": "json"}
+{"input": "Give me YAML for: city = Accra, age is 53, email: kevin.dunn@protonmail.com, phone = +23-222-439-6178, country is Russia", "format": "yaml"}
+{"input": "Output YAML format. the phone is +8-215-907-0485, the city is Almaty.", "format": "yaml"}
+{"input": "Format this as JSON \u2014 the country is Czech Republic, phone is +90-064-533-1810, age is 48, city = Seattle, email is albert_morris@tutanota.com", "format": "json"}
+{"input": "Transform into JSON: phone = +81-280-068-9779, the country is Kazakhstan, name = Christina Russell, email = denise_valdez@zoho.com", "format": "json"}
+{"input": "JSON output for: the name is Janet Mendoza and occupation = Carpenter and country = Philippines and score is 31.4 and email is randykim@me.com", "format": "json"}
+{"input": "Give me YAML for: country = Norway, email: dennis.rojas@outlook.com, phone is +38-929-368-9368, age is 71", "format": "yaml"}
+{"input": "Create a JSON record where country: Philippines and email is susan.rogers@mail.com", "format": "json"}
+{"input": "Produce JSON from this data: country: Portugal and city: Riga", "format": "json"}
+{"input": "Please format as JSON: phone is +60-106-210-0850, score is 61.0", "format": "json"}
+{"input": "Represent as CSV: city is Lima and email: carolyn_allen@zoho.com and age = 32 and occupation = Farmer", "format": "csv"}
+{"input": "Write JSON: email = matthew.clark@me.com; city: Bucharest; occupation: CTO", "format": "json"}
+{"input": "Produce CSV from this data: city = Tallinn; score: 74.1; age is 51; occupation = Scientist; country is Austria", "format": "csv"}
+{"input": "Represent as JSON: phone: +84-227-413-6612 and name: Bruce Turner", "format": "json"}
+{"input": "Output JSON format. the score is 7.7 and city is Manila and the email is gloriahall@aol.com.", "format": "json"}
+{"input": "Write YAML: country = Finland; phone = +66-318-020-8296 and score is 91.8", "format": "yaml"}
+{"input": "Produce YAML from this data: the occupation is Paramedic, country = Turkey and score: 14.5", "format": "yaml"}
+{"input": "Create a JSON record where the occupation is Artist, email: megansimmons@pm.me, age = 27", "format": "json"}
+{"input": "Give me YAML for: email: robertwhite@inbox.com, the phone is +12-893-709-9945, the country is Austria, name: Karen Young, the city is Oslo, age is 42", "format": "yaml"}
+{"input": "Output CSV format. age = 33, occupation = Project Manager, the name is Janice Morgan, score = 77.3, email: gregory_wolfe@zoho.com, city = La Paz.", "format": "csv"}
+{"input": "Represent as CSV: score: 64.3; name = Jerry Brooks; occupation is Electrical Engineer; country = Denmark; the email is alexander.perkins@mail.ru", "format": "csv"}
+{"input": "Generate JSON with the following: phone = +31-989-482-2524 and country is Slovakia and age: 44 and the name is Patricia Walsh and occupation: Biologist and city: Baghdad", "format": "json"}
+{"input": "Please format as YAML: the city is Lima; email is billy_jones@gmx.com; occupation = Researcher; score: 59.5; country = China; name: Joan Gray", "format": "yaml"}
+{"input": "Output JSON format. score = 37.3, the phone is +75-053-224-1849, occupation is Marketing Specialist, name: Jennifer Rios, age is 74, email: edward.bell@inbox.com.", "format": "json"}
+{"input": "Generate YAML with the following: city: Seoul; the country is Norway; score: 84.9; email = steven_roberts@yandex.com; age is 75", "format": "yaml"}
+{"input": "Output JSON format. phone: +50-629-133-0063 and name is Nicholas Cooper and age is 34 and the email is samantha.hall@fastmail.com and country = Uzbekistan.", "format": "json"}
+{"input": "Write CSV: country is South Korea; phone is +54-331-688-7963; city = Yerevan; the age is 62", "format": "csv"}
+{"input": "Convert to CSV: city is Cairo; the occupation is Product Manager; country = Japan; age: 59", "format": "csv"}
+{"input": "CSV; the score is 78.6 and phone = +77-128-182-0521 and name = Patrick Gomez and the age is 26 and the city is Panama City", "format": "csv"}
+{"input": "Transform into YAML: occupation is Librarian; phone: +51-056-093-5604 and city is Rio de Janeiro", "format": "yaml"}
+{"input": "Represent as JSON: name = Scott Powell and phone is +11-613-768-9274 and the score is 22.5 and the city is Tunis and age is 80", "format": "json"}
+{"input": "Output JSON format. occupation = Database Administrator and country: Portugal and name = Judy Barnes.", "format": "json"}
+{"input": "JSON \u2014 city: Stockholm; occupation is Artist and name = Jacob Clark", "format": "json"}
+{"input": "Produce JSON from this data: the phone is +12-633-081-8867, name = Brian Griffin, email = haroldmiller@hotmail.com, score = 50.1", "format": "json"}
+{"input": "Format this as CSV \u2014 the country is Estonia; the phone is +20-879-226-5370; occupation = Journalist; city is Tokyo", "format": "csv"}
+{"input": "YAML; name = Kathleen Wilson; the country is Egypt; phone: +79-388-824-2449; score: 95.6", "format": "yaml"}
+{"input": "Output JSON format. the age is 52, email is joyce.grant@hey.com, the country is Canada, phone is +4-207-308-7608, occupation is Mathematician.", "format": "json"}
+{"input": "I need CSV: score: 18.0, name is Hannah Taylor", "format": "csv"}
+{"input": "Represent as YAML: the occupation is Chef, name is Sharon Campbell, age: 29, phone: +77-213-043-8672, country: Egypt", "format": "yaml"}
+{"input": "Write YAML: name is Jerry Mcdonald; the country is Portugal; email: nicholashernandez@inbox.com; occupation: Chemist", "format": "yaml"}
+{"input": "Output YAML format. the email is catherine.campbell@zoho.com and phone: +89-455-680-0850.", "format": "yaml"}
+{"input": "Format this as JSON \u2014 the score is 40.3, city = Lisbon, email = meganbaker@gmail.com, the country is Sweden and the age is 25", "format": "json"}
+{"input": "Produce CSV from this data: name = Sophia Ward and phone: +65-320-108-9335 and occupation is UX Designer and the email is victoriakelly@aol.com and the city is Phoenix", "format": "csv"}
+{"input": "Write YAML: the age is 62, city = Karachi", "format": "yaml"}
+{"input": "Represent as CSV: country: Hungary and name = Pamela Foster and phone is +67-948-320-1772 and city: Havana and email = karen_weber@gmx.com", "format": "csv"}
+{"input": "Create a CSV record where phone = +16-086-201-3407, name: Deborah Santiago, occupation: CEO", "format": "csv"}
+{"input": "JSON \u2014 phone is +32-362-663-9010 and age: 41", "format": "json"}
+{"input": "Give me CSV for: the age is 56; country is India", "format": "csv"}
+{"input": "Generate YAML with the following: age is 43 and name is Carol Mendoza", "format": "yaml"}
+{"input": "YAML output for: city: Boston; age is 57; name: Anthony Martin", "format": "yaml"}
+{"input": "JSON \u2014 age: 44; the phone is +35-468-838-1102; occupation: Mechanic; name = Ann Henderson; the email is nancyparker@icloud.com; city: Sofia", "format": "json"}
+{"input": "YAML; score = 40.9 and phone is +64-785-646-5093", "format": "yaml"}
+{"input": "Generate JSON with the following: email is brandonkelly@gmail.com, name: Dylan Turner, the city is Tallinn", "format": "json"}
+{"input": "Write CSV: phone is +15-502-398-6441; occupation = Psychologist; email: janicetorres@mail.ru; age is 33; country is Switzerland", "format": "csv"}
+{"input": "Output JSON format. city is Vilnius; age = 38; the phone is +45-645-828-9719; country is Denmark.", "format": "json"}
+{"input": "Transform into JSON: age is 55 and the city is Warsaw and score is 43.5 and the occupation is Actor", "format": "json"}
+{"input": "I need YAML: age = 61; occupation = Electrical Engineer; city is Budapest; phone = +69-969-095-7139; score: 34.5; country = Singapore", "format": "yaml"}
+{"input": "Give me YAML for: occupation: Pilot and score = 68.3 and city = Singapore and phone is +80-413-661-9602 and age = 38 and the email is carlcook@hey.com", "format": "yaml"}
+{"input": "I need CSV: email: michellealvarez@tutanota.com, phone: +64-711-578-6911 and country is Kazakhstan", "format": "csv"}
+{"input": "Represent as CSV: occupation = Marketing Specialist; age is 47", "format": "csv"}
+{"input": "CSV; age is 34 and score = 5.3 and phone is +15-634-288-5041 and email = christopher_richardson@zoho.com and name = Kelly Hughes and city = Accra", "format": "csv"}
+{"input": "Represent as CSV: the city is Dhaka; the phone is +14-122-304-0972; country = Slovenia; occupation: Analyst; the score is 77.1", "format": "csv"}
+{"input": "Transform into CSV: occupation = CEO; name is Frances Brooks; country: Greece; score = 84.9; age: 35; phone is +53-810-872-3408", "format": "csv"}
+{"input": "Write JSON: country = Portugal; city: Istanbul; the score is 32.5", "format": "json"}
+{"input": "YAML; country = Belgium, city = Sydney, phone: +58-611-168-4013, occupation: Game Developer, the age is 27", "format": "yaml"}
+{"input": "Format this as JSON \u2014 the age is 28, the email is alanparker@gmail.com, score = 16.5", "format": "json"}
+{"input": "Produce YAML from this data: score: 88.3; phone = +26-547-815-6466; city is Baghdad and country: Estonia", "format": "yaml"}
+{"input": "CSV; score = 93.1 and the phone is +82-575-193-3707 and email is johnny.henderson@msn.com and name: Kelly Howard and city = Almaty and the country is Thailand", "format": "csv"}
+{"input": "I need JSON: occupation = Athlete and city = Stockholm and email is peterturner@protonmail.com and country = Estonia and score = 36.9 and phone = +29-719-944-6260", "format": "json"}
+{"input": "Output YAML format. occupation is Geologist and age is 33 and the name is Samuel Flores and the phone is +41-869-291-1629.", "format": "yaml"}
+{"input": "I need CSV: the name is Albert Valdez, the score is 84.1, city = Toronto", "format": "csv"}
+{"input": "Produce JSON from this data: city = Mexico City, score: 50.0", "format": "json"}
+{"input": "Please format as JSON: age: 41; the email is jeffreyweber@icloud.com", "format": "json"}
+{"input": "Write JSON: the occupation is Physicist; score: 56.3; name is Lori Hughes; age = 45", "format": "json"}
+{"input": "Transform into YAML: age = 68 and country = Vietnam", "format": "yaml"}
+{"input": "Transform into YAML: age: 56; the occupation is Architect; name: Gregory Baker; city: Denver; score is 13.4 and country: Estonia", "format": "yaml"}
+{"input": "Write YAML: occupation = Teacher, phone: +36-438-182-8503 and email: alan.coleman@mail.com", "format": "yaml"}
+{"input": "Output JSON format. the occupation is Environmental Scientist, email: ralphperez@mail.com, the country is Switzerland, score = 21.7 and name is Betty Rojas.", "format": "json"}
+{"input": "Format this as YAML \u2014 age = 22 and the country is Brazil and email = victoria.castillo@hey.com and phone is +28-998-198-9704 and the city is Riyadh", "format": "yaml"}
+{"input": "Format this as CSV \u2014 country = Russia, email: amy_soto@mail.com", "format": "csv"}
+{"input": "YAML output for: the occupation is Veterinarian, phone is +28-159-382-1482, the email is melissa_rodriguez@pm.me", "format": "yaml"}
+{"input": "Give me CSV for: the occupation is Network Engineer, the country is Mexico, name is Sarah Powell", "format": "csv"}
+{"input": "Give me JSON for: name: Janet Anderson, email is jack_russell@pm.me, country = Turkey, phone = +17-551-696-5682", "format": "json"}
+{"input": "Represent as YAML: email is dennis_grant@hotmail.com, occupation = Environmental Scientist, the score is 39.5, name = Ronald Black", "format": "yaml"}
+{"input": "I need JSON: name: Evelyn Patel and the age is 72", "format": "json"}
+{"input": "I need JSON: name: Joseph Martinez, score: 52.0, occupation = Researcher, phone = +49-281-943-1617, age is 63 and email is jeffreyweber@yandex.com", "format": "json"}
+{"input": "Transform into CSV: country: Estonia and the name is Patrick Jackson and email is joshua.harris@msn.com and city = Chicago and age: 30 and occupation = Designer", "format": "csv"}
+{"input": "Generate YAML with the following: name: Teresa Ramos; phone: +48-970-138-6749; score is 81.7; email: steven.bell@yahoo.com; country = Switzerland; the occupation is Plumber", "format": "yaml"}
+{"input": "Write CSV: the age is 35; name: Harry Rios; score: 84.6; city: Algiers; email: philip.reyes@gmail.com", "format": "csv"}
+{"input": "Convert to JSON: the score is 79.3; the city is Miami; the occupation is Police Officer; name is Susan Anderson", "format": "json"}
+{"input": "Generate CSV with the following: score = 27.8, occupation is CEO", "format": "csv"}
+{"input": "Output JSON format. occupation = Translator; age is 59; name is Joe Murphy.", "format": "json"}
+{"input": "Give me YAML for: phone: +68-845-992-2568; city = Dublin; score = 97.4", "format": "yaml"}
+{"input": "Transform into CSV: phone = +37-198-262-9721 and the name is Harold Powell and the occupation is Statistician and the city is Tbilisi and score is 37.9", "format": "csv"}
+{"input": "Produce CSV from this data: score: 3.2, country is Hungary, age is 80", "format": "csv"}
+{"input": "Give me JSON for: name is Doris Watson, phone = +9-125-806-9647, email: teresa_hughes@icloud.com, country: Serbia, occupation: Accountant", "format": "json"}
+{"input": "Produce CSV from this data: age = 33; country is Mexico; city: Tokyo; name: Joe Valdez and email: olivia.phillips@aol.com", "format": "csv"}
+{"input": "I need JSON: phone is +31-271-096-8014 and score: 21.4 and occupation = Industrial Engineer and city is Osaka", "format": "json"}
+{"input": "Produce JSON from this data: occupation = Geologist and score = 76.0 and email = betty_gonzalez@mail.ru and phone = +66-496-785-0854 and country = Ireland", "format": "json"}
+{"input": "JSON output for: country is Hungary; score: 34.2; phone = +24-921-300-4220 and age: 62", "format": "json"}
+{"input": "Format this as JSON \u2014 score: 76.4; country: Russia; occupation is Sales Representative; the phone is +94-514-946-5652", "format": "json"}
+{"input": "Please format as YAML: the city is Denver; age = 65", "format": "yaml"}
+{"input": "Output JSON format. email = catherine.perkins@inbox.com, occupation is Security Analyst, score: 44.6, name: Brandon Rogers.", "format": "json"}
+{"input": "Write CSV: city: Dublin and score = 3.6 and the name is Dylan Anderson and country is Ireland", "format": "csv"}
+{"input": "Convert to CSV: phone is +99-374-075-2400 and country = Spain and score is 59.9 and the name is Christina Mendoza and occupation is Chef", "format": "csv"}
+{"input": "Please format as YAML: name = Doris Roberts; the age is 24; the email is jackcook@protonmail.com; city is Algiers", "format": "yaml"}
+{"input": "Produce YAML from this data: the city is Bratislava, the country is Lithuania, name = Sean Hernandez", "format": "yaml"}
+{"input": "Transform into YAML: country: Belgium and city: Madrid and the age is 53 and phone: +12-249-801-6336 and the name is Robert Nguyen and occupation = Pilot", "format": "yaml"}
+{"input": "Format this as CSV \u2014 name is Cheryl Gray and city: Yerevan", "format": "csv"}
+{"input": "CSV output for: occupation is Photographer; email is christinaroberts@pm.me and age = 60", "format": "csv"}
+{"input": "I need CSV: name = Anna Parker and country = Denmark and the occupation is Designer and score = 82.9", "format": "csv"}
+{"input": "Output CSV format. the age is 46 and phone = +71-078-404-8104 and the email is jerry_castillo@mail.ru.", "format": "csv"}
+{"input": "JSON \u2014 age = 24 and score is 21.1 and the country is Latvia", "format": "json"}
+{"input": "Create a YAML record where the occupation is Environmental Scientist and name = Steven Baker and country = India and email: douglas.diaz@gmail.com", "format": "yaml"}
+{"input": "Please format as JSON: phone is +71-246-226-7829 and name = Sharon Rios and the city is San Francisco and score: 30.8", "format": "json"}
+{"input": "Convert to CSV: city: Bangkok; age = 67; the name is Jean Ferguson; occupation: Architect", "format": "csv"}
+{"input": "JSON; age: 21, name = Amber Mitchell, the city is La Paz, score = 67.2", "format": "json"}
+{"input": "Please format as CSV: score = 43.7 and email = joshua.vasquez@mail.com and country is Philippines", "format": "csv"}
+{"input": "Convert to JSON: country is Egypt, city = Jakarta, age: 19", "format": "json"}
+{"input": "Generate CSV with the following: occupation: Director, email is amber_shaw@protonmail.com, the name is Ann Jones, city = Chicago", "format": "csv"}
+{"input": "Convert to YAML: the email is lisathomas@aol.com; name: Alexander Bell; country is Philippines", "format": "yaml"}
+{"input": "Give me CSV for: country = Latvia and phone = +30-882-130-8344 and age: 75 and email is kevin_phillips@gmail.com and the city is Tallinn", "format": "csv"}
+{"input": "Convert to JSON: phone = +64-104-721-2489 and age: 63 and the occupation is Mechanic and name: Kyle Hall and score: 7.6", "format": "json"}
+{"input": "I need CSV: the age is 21 and phone is +11-712-650-6005", "format": "csv"}
+{"input": "CSV \u2014 phone is +69-215-685-1786 and city: Jakarta and score = 74.1", "format": "csv"}
+{"input": "Format this as CSV \u2014 score: 99.5, occupation is Consultant, city is Sao Paulo, the phone is +20-719-525-7356", "format": "csv"}
+{"input": "Give me YAML for: the occupation is Coach; score is 59.4; the email is judy.rojas@pm.me", "format": "yaml"}
+{"input": "Please format as JSON: the phone is +15-088-000-5537; country is China; the occupation is Paramedic and score is 83.9", "format": "json"}
+{"input": "JSON \u2014 country: China and age is 46 and city is Brussels", "format": "json"}
+{"input": "Write CSV: the name is Sandra Phillips; the occupation is Electrician; the phone is +36-567-978-4506; the age is 29; city: Dakar; country = Vietnam", "format": "csv"}
+{"input": "YAML \u2014 the score is 30.9, city = Bucharest, age is 42 and the email is patricia.james@mail.com", "format": "yaml"}
+{"input": "Represent as YAML: the age is 62; name: Michael Cook", "format": "yaml"}
+{"input": "CSV output for: phone: +68-460-977-0451, the score is 32.8, age: 32, the occupation is Pharmacist", "format": "csv"}
+{"input": "Please format as YAML: age: 31; phone = +9-400-820-2112; the score is 36.0; name: Sandra Green; the country is China", "format": "yaml"}
+{"input": "Create a JSON record where phone: +63-557-882-6551, age = 26, city is Montevideo and the country is Portugal", "format": "json"}
+{"input": "Please format as YAML: name: Amanda Harris; occupation = Police Officer; the score is 26.5; phone is +33-022-894-1284", "format": "yaml"}
+{"input": "Transform into YAML: age = 59, occupation is Doctor, phone = +54-296-331-8507, the country is Malaysia, name: Keith Grant, the email is harry_jenkins@pm.me", "format": "yaml"}
+{"input": "JSON; name is Pamela Campbell; email is kevingreen@mail.ru; score = 20.1; the country is South Korea; city is Tbilisi; the age is 46", "format": "json"}
+{"input": "Produce CSV from this data: age = 62 and city: Oslo and phone = +94-550-310-9703 and email = carolyn.allen@aol.com", "format": "csv"}
+{"input": "Output JSON format. phone is +33-776-220-1437 and the occupation is Systems Administrator and name = Austin Jackson and country = Russia and email: natalieperez@fastmail.com and the age is 22.", "format": "json"}
+{"input": "Give me JSON for: score is 90.1 and occupation: Scientist and phone: +34-700-127-8653 and city is Geneva and country = Belgium and name: Barbara Wolfe", "format": "json"}
+{"input": "Output JSON format. country: Philippines and the email is cheryl.wood@mail.ru and age: 44 and score is 69.3 and the phone is +51-841-561-9894.", "format": "json"}
+{"input": "Format this as CSV \u2014 the country is Romania and name: Russell Morgan and score: 42.0", "format": "csv"}
+{"input": "Represent as YAML: phone: +2-322-533-7268, occupation = Scientist, age: 51, the email is carolynmorales@me.com and city = Cairo", "format": "yaml"}
+{"input": "Produce YAML from this data: phone = +59-245-521-1094 and city = Hanoi and country = Turkey and the score is 87.2 and occupation: Geologist", "format": "yaml"}
+{"input": "Write CSV: the score is 17.6, the email is lawrence_holland@aol.com", "format": "csv"}
+{"input": "Produce YAML from this data: occupation = Financial Advisor; phone is +60-191-871-4670; country: Russia", "format": "yaml"}
+{"input": "Create a JSON record where the occupation is Pilot; city: Algiers; email: virginia_white@icloud.com and country = Slovenia", "format": "json"}
+{"input": "Produce YAML from this data: name: Sandra Rios; age = 25; the occupation is Software Engineer; score = 76.0; city is Rio de Janeiro; email = beverly_scott@live.com", "format": "yaml"}
+{"input": "Produce CSV from this data: occupation: Software Engineer; city: Mumbai; the email is kennethvargas@msn.com", "format": "csv"}
+{"input": "Please format as YAML: score: 61.7, the age is 30, name: Sara Evans", "format": "yaml"}
+{"input": "Create a JSON record where the occupation is Psychologist, score: 50.2, the country is Russia", "format": "json"}
+{"input": "YAML; the country is Netherlands; the name is Laura Aguilar; age = 25; score: 66.8; the city is Berlin; email: lauren_gomez@live.com", "format": "yaml"}
+{"input": "CSV output for: email is richard.cruz@hey.com; score = 63.9; the city is Chicago; occupation: Dentist; age = 30", "format": "csv"}
+{"input": "Transform into JSON: city: Vilnius; phone = +32-642-801-1894 and the country is Serbia", "format": "json"}
+{"input": "JSON \u2014 age: 24; score: 32.6; country: Finland; name = Arthur Aguilar; the city is Caracas; the occupation is Mathematician", "format": "json"}
+{"input": "Convert to CSV: city is La Paz and phone = +87-381-077-2794", "format": "csv"}
+{"input": "Give me YAML for: occupation: Network Engineer, the city is Hong Kong", "format": "yaml"}
+{"input": "YAML \u2014 country = Malaysia; city: Tallinn; name: James Miller; phone: +62-286-069-8429 and the email is edwardward@protonmail.com", "format": "yaml"}
+{"input": "Write CSV: the name is Robert Cook, city is Geneva, age: 42, phone: +52-902-067-9262, occupation: Quality Assurance Engineer", "format": "csv"}
+{"input": "I need CSV: country = Poland and phone is +2-843-616-8623 and age = 24 and email: jason_bell@aol.com", "format": "csv"}
+{"input": "JSON; email: julie.gonzales@tutanota.com, occupation: Project Manager, city is Accra, age: 65, name is Brian Dunn, phone = +41-466-465-4019", "format": "json"}
+{"input": "Please format as CSV: name is Gloria Miller, country is Hungary, occupation = Electrician, email = terry_lopez@mail.com, city: Astana", "format": "csv"}
+{"input": "Write YAML: name: Steven Fox and city: Bangkok and score = 7.7", "format": "yaml"}
+{"input": "Transform into YAML: email: heather.henderson@protonmail.com and country: Nigeria", "format": "yaml"}
+{"input": "Please format as YAML: score is 68.1 and the phone is +40-045-072-6721 and the email is roy_wright@zoho.com and city = San Francisco and age is 43 and the occupation is Project Manager", "format": "yaml"}
+{"input": "Please format as JSON: the country is South Korea and email is shirley_wood@mail.ru", "format": "json"}
+{"input": "Produce JSON from this data: city is Asuncion and name is Sarah Romero and occupation = Architect", "format": "json"}
+{"input": "JSON output for: name: Ann Stewart and the country is Austria and phone is +52-105-824-0423", "format": "json"}
+{"input": "YAML output for: age: 21, city: San Jose, score: 18.9, name is Elizabeth Ferguson, the phone is +62-935-187-9866 and country is Kazakhstan", "format": "yaml"}
+{"input": "JSON output for: the occupation is Electrician; email is doris_bennett@outlook.com; city = Minsk; name is Eric Campbell; the score is 34.1 and country = Netherlands", "format": "json"}
+{"input": "CSV \u2014 phone: +53-190-968-9761; country is Thailand; occupation: Astronomer", "format": "csv"}
+{"input": "Represent as JSON: name is Rachel Rojas; email: marie.gonzalez@zoho.com; occupation is Product Manager; phone is +72-809-121-9904", "format": "json"}
+{"input": "YAML; city is Sydney, score = 21.7", "format": "yaml"}
+{"input": "YAML output for: phone = +28-147-189-7720 and country = Turkey and the city is Sao Paulo and email = catherine_warner@msn.com and occupation is HR Manager", "format": "yaml"}
+{"input": "I need JSON: phone is +5-636-343-2384 and age is 76 and city: Boston and name is Alexander Ramos and country is Denmark", "format": "json"}
+{"input": "Transform into JSON: score = 6.5; occupation = Actor; name is Rebecca Fox and email: joycegray@yahoo.com", "format": "json"}
+{"input": "Output YAML format. the city is Algiers and occupation: Marketing Specialist and phone is +76-921-852-0162 and country is Switzerland.", "format": "yaml"}
+{"input": "Please format as JSON: country is Czech Republic, the email is jessica.johnson@gmx.com, the name is Anna Davis, occupation is Editor", "format": "json"}
+{"input": "CSV \u2014 score: 65.4, city = Singapore, name = Dorothy Scott", "format": "csv"}
+{"input": "YAML \u2014 name is Bruce Mendoza and score: 58.4 and occupation is Consultant and country: Uzbekistan", "format": "yaml"}
+{"input": "Represent as CSV: country = Switzerland and age is 22", "format": "csv"}
+{"input": "YAML; city = Mexico City, score is 63.9, the name is Megan Weber", "format": "yaml"}
+{"input": "Write YAML: name is Jeremy Williams and age: 45", "format": "yaml"}
+{"input": "Output JSON format. phone = +48-934-704-7130, score = 1.5, age is 61 and name is Patrick Scott.", "format": "json"}
+{"input": "Output JSON format. occupation = Data Scientist, the email is debra.myers@msn.com, city = Athens, phone is +57-553-724-2718.", "format": "json"}
+{"input": "Create a JSON record where city is Bogota and country = Switzerland and email = alankelly@mail.com and phone = +82-121-388-5005", "format": "json"}
+{"input": "Transform into JSON: country is Kazakhstan, the occupation is Editor, the email is alexis_lewis@live.com, score = 55.7", "format": "json"}
+{"input": "Transform into YAML: name is Theresa Chapman; city: Mumbai and score: 71.6", "format": "yaml"}
+{"input": "YAML \u2014 score = 51.7; country: Belgium", "format": "yaml"}
+{"input": "Write JSON: name is Philip Holland and email is patricia_vasquez@gmx.com and phone: +3-623-975-8207", "format": "json"}
+{"input": "I need CSV: phone = +57-547-373-1160 and the name is Randy Lee", "format": "csv"}
+{"input": "Create a YAML record where age = 48; email = amymurphy@hey.com; occupation = Game Developer; the name is Amy Lopez; city: Tbilisi and phone is +11-037-671-1984", "format": "yaml"}
+{"input": "YAML; name is James Sanders; the email is cynthia.hill@yandex.com; age = 25; score = 67.0", "format": "yaml"}
+{"input": "Represent as CSV: age: 43 and score = 89.2 and phone = +33-720-225-9314 and email: teresatorres@zoho.com and city: Tbilisi and country is Estonia", "format": "csv"}
+{"input": "Generate CSV with the following: city: Quito and phone: +39-700-255-6776 and occupation = Electrical Engineer and age is 41 and country = Norway and name: Amber Palmer", "format": "csv"}
+{"input": "Output YAML format. phone is +22-506-669-5578, the email is heatheradams@msn.com.", "format": "yaml"}
+{"input": "I need JSON: the occupation is Artist, email is donna_gutierrez@mail.ru, score: 36.1, city = Singapore, phone: +2-098-647-6383", "format": "json"}
+{"input": "I need JSON: phone: +8-605-529-5719, age: 67, city: Copenhagen, email = jeremy.gutierrez@mail.ru and name = Michelle Hall", "format": "json"}
+{"input": "Create a CSV record where score is 21.9, occupation is Artist, email = austin_alvarez@gmail.com, name: Ronald Ramos, the age is 27, phone: +75-846-436-2665", "format": "csv"}
+{"input": "Generate JSON with the following: score is 47.3, phone = +32-342-209-1649, country is Switzerland, name is Lisa Lewis, occupation = HR Manager, email is christinethompson@yahoo.com", "format": "json"}
+{"input": "Write YAML: the phone is +4-076-443-1262; the name is Nicole Miller; the country is Kazakhstan and age is 73", "format": "yaml"}
+{"input": "YAML; the age is 23 and phone: +72-152-760-7243 and occupation is Mathematician and the email is hannahwilliams@mail.com and the city is San Jose and name is Jessica Grant", "format": "yaml"}
+{"input": "I need JSON: the city is Almaty, phone is +75-847-254-0057", "format": "json"}
+{"input": "Give me YAML for: the age is 72 and the phone is +76-995-500-3300 and name: Julie Edwards and score is 38.1 and country = United States", "format": "yaml"}
+{"input": "CSV; country: Finland; city = Hanoi", "format": "csv"}
+{"input": "CSV; name = Zachary Fisher and email: janicehall@me.com and occupation = Pilot and score: 79.8 and phone is +49-634-207-3256", "format": "csv"}
+{"input": "Convert to CSV: name: Ruth Lee and occupation: Software Engineer and city: Cairo and score = 24.5", "format": "csv"}
+{"input": "Transform into YAML: city is Bangkok and age is 48", "format": "yaml"}
+{"input": "Represent as JSON: name: Donald King, phone = +87-492-210-4143 and city: Tokyo", "format": "json"}
+{"input": "Generate JSON with the following: email: barbara.smith@gmx.com; the age is 76; the phone is +80-062-741-0378; the country is Canada", "format": "json"}
+{"input": "Output YAML format. the name is Carl Bell and occupation = Editor and city is Cairo and the email is bryan.gomez@pm.me.", "format": "yaml"}
+{"input": "Format this as JSON \u2014 email: carol.wolfe@protonmail.com; score = 73.3; the age is 27", "format": "json"}
+{"input": "Generate YAML with the following: the city is Accra, score: 75.1, country = South Korea and age is 38", "format": "yaml"}
+{"input": "Please format as CSV: city = Helsinki, phone is +18-059-500-8398, the score is 80.9, the country is Finland", "format": "csv"}
+{"input": "Generate JSON with the following: phone is +14-815-611-0717 and score = 72.5 and the city is Caracas and age: 71 and the country is Romania", "format": "json"}
+{"input": "I need JSON: phone = +3-945-547-1359, name is Cheryl Adams and email: samantha.barnes@msn.com", "format": "json"}
+{"input": "Please format as CSV: email is jacqueline_gonzales@gmx.com; age: 29", "format": "csv"}
+{"input": "Write CSV: age = 72, the email is kelly_wright@hey.com, the occupation is Director, the city is Dubai", "format": "csv"}
+{"input": "Generate CSV with the following: phone = +16-970-430-9963, city is Tunis", "format": "csv"}
+{"input": "Transform into CSV: the occupation is Mathematician; country: Australia; score = 8.9; the name is Steven Gomez; age is 50; email is ronaldfox@mail.com", "format": "csv"}
+{"input": "Represent as JSON: city = Kyiv, country = Slovakia, phone is +67-389-852-5240, age = 41", "format": "json"}
+{"input": "Create a YAML record where city is Minsk, score is 98.3", "format": "yaml"}
+{"input": "Transform into JSON: phone is +32-502-154-3331 and the name is Gabriel Baker and occupation = Mechanical Engineer and city is Oslo", "format": "json"}
+{"input": "Produce CSV from this data: name is Dorothy Patel and city = Beijing and country is Sweden and phone is +60-523-313-2909 and age is 76", "format": "csv"}
+{"input": "Produce CSV from this data: country is Sweden and score: 18.6 and the email is emily_barnes@hotmail.com", "format": "csv"}
+{"input": "YAML \u2014 occupation = Pharmacist and the email is donaldvargas@zoho.com and country = Denmark", "format": "yaml"}
+{"input": "Produce JSON from this data: the occupation is Athlete, email: nicholas.santiago@hey.com, age = 20", "format": "json"}
+{"input": "Transform into YAML: the phone is +12-424-782-5787; country is Hungary; age is 34; name = Lawrence Davis; occupation = Mechanical Engineer", "format": "yaml"}
+{"input": "Generate CSV with the following: city is Rio de Janeiro, the occupation is Biologist, the score is 63.6", "format": "csv"}
+{"input": "Format this as JSON \u2014 age: 51; country = United States; email = elijah.wilson@gmail.com and city is Dublin", "format": "json"}
+{"input": "Format this as JSON \u2014 age is 49 and name = Kayla Shaw", "format": "json"}
+{"input": "JSON \u2014 age: 42 and score = 58.7 and name is Beverly Thomas and city = La Paz and occupation: Photographer", "format": "json"}
+{"input": "Give me YAML for: age is 41 and email: marie.powell@gmail.com", "format": "yaml"}
+{"input": "Represent as JSON: country is Portugal and the email is roygonzales@msn.com and the age is 56 and occupation: Dancer and the name is Ethan Kelly and the city is Zagreb", "format": "json"}
+{"input": "Write CSV: score: 11.1 and the name is Rachel Collins and occupation: Police Officer and phone: +56-732-480-9427 and age is 43 and country is Sweden", "format": "csv"}
+{"input": "YAML output for: the name is Gerald Gonzales, the age is 19, score = 63.1, the occupation is Designer, country: Australia, the city is Baku", "format": "yaml"}
+{"input": "I need JSON: occupation is Systems Administrator and city: Lisbon and score is 68.4", "format": "json"}
+{"input": "Generate JSON with the following: city = Rome and name is Richard Johnson and email: donald_romero@gmail.com and age = 22 and the phone is +91-645-250-9739", "format": "json"}
+{"input": "Output JSON format. the occupation is Editor and name is Maria Allen and phone is +71-962-401-4184.", "format": "json"}
+{"input": "YAML; score: 95.0; email is seanmedina@msn.com; city is Panama City; name is Margaret Harris", "format": "yaml"}
+{"input": "Convert to CSV: the phone is +8-024-485-9638 and country: Russia and city: Tunis and age is 25", "format": "csv"}
+{"input": "I need CSV: the name is Steven Richardson and age = 67", "format": "csv"}
+{"input": "Give me JSON for: country is United States, email: josephwhite@tutanota.com, city = Denver, occupation = Geologist, the phone is +85-055-688-2770", "format": "json"}
+{"input": "Give me YAML for: phone is +34-109-565-2636; occupation = Writer; country: Finland; name = Walter Rojas", "format": "yaml"}
+{"input": "Produce CSV from this data: the phone is +53-954-702-9665 and the city is Seoul", "format": "csv"}
+{"input": "Write YAML: country is Ireland; city: Stockholm; score: 82.8; the email is christine_ortiz@zoho.com", "format": "yaml"}
+{"input": "Transform into CSV: the country is Lithuania, occupation: Professor and name = Nathan Roberts", "format": "csv"}
+{"input": "Generate JSON with the following: the city is Boston, the country is Norway, email: nicholas.green@hey.com, the age is 69", "format": "json"}
+{"input": "Give me YAML for: score is 44.7 and city is Copenhagen and email is georgegray@gmail.com", "format": "yaml"}
+{"input": "CSV \u2014 score = 73.9 and name: Janice Lewis and city is Tokyo and country: Spain and email = eugeneramos@hey.com and occupation: Social Worker", "format": "csv"}
+{"input": "YAML \u2014 occupation is Radiologist and score = 90.9 and age is 34 and phone is +4-982-527-1604 and the email is martha.soto@gmail.com and city = Istanbul", "format": "yaml"}
+{"input": "YAML output for: name is Christina Grant and score = 61.7 and city is Toronto and age: 37", "format": "yaml"}
+{"input": "Create a CSV record where score = 17.2, email is terrypowell@aol.com, the name is Steven Thomas, city = Baghdad", "format": "csv"}
+{"input": "Output JSON format. occupation = Chemist and city is Sofia and the phone is +41-156-302-3844 and the email is victoriamitchell@inbox.com and age is 70.", "format": "json"}
+{"input": "Represent as JSON: city = Beijing, the email is denniscook@protonmail.com, phone is +11-980-983-9759", "format": "json"}
+{"input": "Write JSON: phone: +41-192-659-4837 and name is David Ortiz", "format": "json"}
+{"input": "Convert to JSON: the score is 34.4; city = Budapest; country = Russia and occupation: Designer", "format": "json"}
+{"input": "Generate CSV with the following: email: roger.morgan@gmail.com and city = Houston", "format": "csv"}
+{"input": "Convert to JSON: score = 38.9, the country is Netherlands, age = 60, city is Seattle, email is brianwright@gmail.com", "format": "json"}
+{"input": "Transform into JSON: the name is Ronald Perkins and the city is Baku and score: 4.4 and phone is +94-057-076-7658 and occupation is Radiologist", "format": "json"}
+{"input": "Please format as CSV: city is Almaty and email is gregory.jimenez@me.com and occupation: Firefighter and score: 5.4 and the name is Maria Wilson", "format": "csv"}
+{"input": "Give me JSON for: occupation: Systems Administrator and the email is arthur_ramirez@icloud.com", "format": "json"}
+{"input": "Represent as CSV: country = Germany, occupation = Researcher, the age is 18, phone is +42-028-616-4408", "format": "csv"}
+{"input": "Output JSON format. city: Tallinn, email = gary.robinson@tutanota.com.", "format": "json"}
+{"input": "Please format as JSON: phone: +47-702-471-8121 and name is Eugene Henderson", "format": "json"}
+{"input": "Convert to YAML: the city is Seoul and country: Singapore", "format": "yaml"}
+{"input": "YAML output for: phone is +15-696-792-4157; country = Norway; email = jeremy.russell@icloud.com; occupation = Social Worker", "format": "yaml"}
+{"input": "Format this as CSV \u2014 the occupation is Web Developer and email is peterbutler@live.com and country: Italy and score: 11.3 and city = Doha and the age is 39", "format": "csv"}
+{"input": "Format this as CSV \u2014 phone: +40-612-848-2247; age: 42; name is Sandra Vasquez; country is Kazakhstan; occupation is Mathematician and city: Istanbul", "format": "csv"}
+{"input": "Create a JSON record where the city is Denver and age is 25", "format": "json"}
+{"input": "I need YAML: occupation = Athlete; the phone is +63-076-187-2447; name: Eugene Gutierrez; email is natalie.ruiz@msn.com; the country is India; score is 90.8", "format": "yaml"}
+{"input": "CSV output for: phone = +18-691-719-7504, city = Accra, country is Ireland, email = christine_howard@aol.com, score: 44.3", "format": "csv"}
+{"input": "I need JSON: email: walter_morales@yandex.com; score: 35.4; country = India", "format": "json"}
+{"input": "Create a YAML record where name: Jose Bell; city = Manila; the country is Ireland; the age is 67; phone: +48-409-367-9217", "format": "yaml"}
+{"input": "JSON output for: city = Baku; the phone is +88-968-836-8863; email = joe_edwards@fastmail.com", "format": "json"}
+{"input": "Transform into YAML: the city is Madrid, occupation is Biomedical Engineer, phone is +11-668-471-9410, score: 67.4, email = katherinebell@aol.com, country is Austria", "format": "yaml"}
+{"input": "Generate CSV with the following: email = elizabeth.brooks@gmx.com; occupation: Designer; city = Phoenix; age: 46; the score is 2.8; country: Germany", "format": "csv"}
+{"input": "JSON \u2014 city = Riyadh, phone is +42-898-558-4381, email: danielalvarez@tutanota.com, age: 75", "format": "json"}
+{"input": "Output YAML format. country is Switzerland; name = Jesse Santiago; score = 65.3; occupation = Electrician.", "format": "yaml"}
+{"input": "Transform into CSV: the country is Canada and occupation: Dentist and score: 18.0 and age: 71", "format": "csv"}
+{"input": "Generate YAML with the following: phone is +93-119-959-0356, city: Rio de Janeiro, the score is 76.6, age: 52, occupation = Aerospace Engineer, email: charles.ward@me.com", "format": "yaml"}
+{"input": "Represent as YAML: age: 66, name = Douglas Lee", "format": "yaml"}
+{"input": "CSV \u2014 city = Kuala Lumpur; the name is Denise Lewis; email: garygrant@mail.com; the country is Turkey and phone = +58-413-723-9337", "format": "csv"}
+{"input": "Produce CSV from this data: age is 80; country: South Korea; city is Phoenix; the occupation is Consultant; phone = +18-159-590-4708; email: roy_chavez@pm.me", "format": "csv"}
+{"input": "CSV; the city is Madrid, age = 35, phone is +50-893-819-7382, score = 38.6, the country is India", "format": "csv"}
+{"input": "Format this as JSON \u2014 phone: +24-735-760-5419; the city is Budapest; the age is 20; email is tylerwolfe@live.com; the occupation is Network Engineer; name: Nicole Alvarez", "format": "json"}
+{"input": "Create a CSV record where the occupation is Artist and email = gabriel_myers@pm.me and phone: +71-389-956-2403 and city is Denver", "format": "csv"}
+{"input": "Represent as JSON: name: Terry Morales, the occupation is Business Analyst and the phone is +32-762-348-7364", "format": "json"}
+{"input": "YAML output for: country = Canada and score = 7.6", "format": "yaml"}
+{"input": "Write YAML: score is 35.1 and country: Brazil and email: ann_baker@pm.me", "format": "yaml"}
+{"input": "I need YAML: email is marilynvasquez@inbox.com and age = 64 and occupation: Electrician", "format": "yaml"}
+{"input": "JSON; city = Hanoi, email is melissa.hill@mail.com, name: Sean Ortiz, the phone is +3-538-001-3994", "format": "json"}
+{"input": "Produce YAML from this data: age is 48, the phone is +67-920-328-5003, country = Argentina", "format": "yaml"}
+{"input": "Give me CSV for: city is Riga and age = 77 and phone: +8-688-761-2457", "format": "csv"}
+{"input": "YAML \u2014 age is 69 and phone is +76-064-225-3645 and occupation: Aerospace Engineer and score is 98.8 and name: Mary Howard and email: kyle.kim@yahoo.com", "format": "yaml"}
+{"input": "Create a JSON record where email: richardreed@tutanota.com and name: Jerry Reyes", "format": "json"}
+{"input": "YAML \u2014 phone = +87-877-805-5079 and name = Lisa Jones and the score is 46.3 and age = 80 and the email is elizabethjackson@aol.com", "format": "yaml"}
+{"input": "Please format as CSV: score = 6.1, email = janetmartinez@me.com, the age is 21, phone: +3-762-509-2835", "format": "csv"}
+{"input": "Please format as YAML: the name is Rachel Williams and occupation is Systems Administrator and age is 66 and email is judith_bell@outlook.com and country = Hungary", "format": "yaml"}
+{"input": "Convert to CSV: the phone is +23-309-435-3399; occupation: Mathematician; country = Turkey and score = 6.5", "format": "csv"}
+{"input": "CSV \u2014 phone is +24-570-922-4558, the name is Harry Myers, age is 18, occupation: Network Engineer, the city is Rome, the email is brianwatson@mail.ru", "format": "csv"}
+{"input": "YAML; phone is +72-411-363-1519; score = 25.2; the name is Adam Marquez", "format": "yaml"}
+{"input": "Write YAML: score = 33.5 and country: United Kingdom and city = Rome", "format": "yaml"}
+{"input": "JSON; the city is Kuala Lumpur, email = amanda.holland@icloud.com, score = 83.9, age is 65, occupation: Psychologist", "format": "json"}
+{"input": "YAML \u2014 name: Emma Howard and email is markgonzales@yahoo.com", "format": "yaml"}
+{"input": "Convert to JSON: city is Caracas and the name is Jerry Dunn and the age is 36 and occupation: Electrical Engineer and email: evelyn.walker@mail.com and country = Norway", "format": "json"}
+{"input": "Format this as JSON \u2014 the email is joe_mendoza@tutanota.com and the score is 39.5 and occupation: Astronomer and country = Sweden and the phone is +14-254-322-5840 and the age is 48", "format": "json"}
+{"input": "Output YAML format. the email is jessica.lee@yahoo.com; the country is Italy.", "format": "yaml"}
+{"input": "Write CSV: the score is 73.5; country = Australia", "format": "csv"}
+{"input": "Please format as CSV: country is Singapore, city = Tashkent, phone = +55-102-270-1317, age: 74, the email is abigailreid@msn.com", "format": "csv"}
+{"input": "Transform into YAML: name is Bobby Simmons, the city is Asuncion, age: 47, occupation = Librarian, the email is beverly.morgan@hey.com and country: Australia", "format": "yaml"}
+{"input": "Format this as YAML \u2014 country is Ireland and name = Jeremy Aguilar and the age is 58 and the city is Singapore and score is 8.3", "format": "yaml"}
+{"input": "Please format as YAML: city = Riga and score = 45.0 and the email is amy.price@outlook.com and phone = +60-096-478-4379 and age is 64", "format": "yaml"}
+{"input": "Please format as YAML: the name is Joyce Ruiz, country = Argentina, occupation is Electrical Engineer", "format": "yaml"}
+{"input": "Represent as CSV: phone is +21-717-577-8805, the name is Sophia Russell, age = 22 and occupation is Quality Assurance Engineer", "format": "csv"}
+{"input": "Create a CSV record where age is 29; country: Egypt; the name is Christine Chavez; occupation = Dancer", "format": "csv"}
+{"input": "Give me JSON for: email: billy.reed@hey.com, score is 9.5, city: Minsk", "format": "json"}
+{"input": "Represent as YAML: the name is Amanda Castillo and occupation: Translator and the phone is +79-959-038-9268", "format": "yaml"}
+{"input": "YAML \u2014 name is Sandra Morgan and email is tyler.fox@aol.com and the city is Kolkata and country: Austria", "format": "yaml"}
+{"input": "Produce JSON from this data: name = Isabella Reyes, the age is 62, phone is +89-665-217-5384, occupation: Pilot, score is 55.8", "format": "json"}
+{"input": "JSON output for: the score is 35.1; country: Russia; occupation = Mechanic; phone: +53-557-576-9667", "format": "json"}
+{"input": "Transform into YAML: name = Carl Wood and the occupation is Scientist", "format": "yaml"}
+{"input": "Output YAML format. age = 21, the email is frank.rivera@zoho.com, phone is +71-274-468-9950.", "format": "yaml"}
+{"input": "Write YAML: age: 76 and country is Canada and name = Billy Young and email: george_nelson@yahoo.com and the score is 50.5 and phone is +15-551-556-7614", "format": "yaml"}
+{"input": "Write JSON: score is 87.1, email: beverly.rodriguez@protonmail.com", "format": "json"}
+{"input": "JSON output for: country: South Korea; occupation = Software Engineer; the city is Geneva; score = 5.4; email: williecollins@mail.ru and age: 30", "format": "json"}
+{"input": "Write JSON: score: 82.4 and the age is 74", "format": "json"}
+{"input": "Represent as CSV: country is Australia; city = Kolkata; score = 22.8; the email is bryan.roberts@msn.com and name: Amanda Alvarez", "format": "csv"}
+{"input": "Please format as JSON: city: Tehran and the name is Madison Aguilar", "format": "json"}
+{"input": "Create a CSV record where age is 78 and the email is jason.myers@mail.com and phone is +11-164-526-3543 and country = Belgium and name: Brenda Reyes", "format": "csv"}
+{"input": "Transform into CSV: score = 80.2 and age is 20", "format": "csv"}
+{"input": "Write YAML: city = Minsk; email: brandonwalker@mail.com; score = 83.5; country: Netherlands; age: 38", "format": "yaml"}
+{"input": "Format this as JSON \u2014 score = 23.9; age = 72; name is Heather Turner; country: Canada; the city is Hanoi", "format": "json"}
+{"input": "Format this as YAML \u2014 city = Baghdad; age is 20; email: jerry.black@me.com", "format": "yaml"}
+{"input": "Produce CSV from this data: country = Canada, score is 78.3, occupation is Psychologist, phone is +46-291-924-9890", "format": "csv"}
+{"input": "Generate JSON with the following: occupation is Police Officer; the score is 56.9", "format": "json"}
+{"input": "I need YAML: name: Rebecca Gutierrez and the score is 27.2 and the phone is +60-622-556-3223 and email = bobbyedwards@aol.com and the occupation is Chemical Engineer and age is 41", "format": "yaml"}
+{"input": "YAML output for: name = Roy Hernandez and country: Sweden", "format": "yaml"}
+{"input": "Transform into YAML: score is 83.3; occupation is Marketing Specialist; city: Nairobi; email = jessica_vargas@fastmail.com; name is Martha Bell; the phone is +39-211-808-9599", "format": "yaml"}
+{"input": "Output YAML format. city: Sydney, age = 56, name: Olivia Castillo, score = 48.0.", "format": "yaml"}
+{"input": "I need YAML: age: 48; the name is Lawrence Aguilar; phone: +54-773-840-6744; email: david.turner@me.com", "format": "yaml"}
+{"input": "Create a CSV record where occupation: Firefighter; age: 19; score: 80.8; country: Kazakhstan", "format": "csv"}
+{"input": "Convert to JSON: occupation is Business Analyst and age = 79", "format": "json"}
+{"input": "Please format as CSV: score: 63.0; occupation: Environmental Scientist; age = 63", "format": "csv"}
+{"input": "CSV \u2014 the country is Denmark, the age is 78, name is Rachel Robinson", "format": "csv"}
+{"input": "JSON; score = 79.2, occupation is Biomedical Engineer, phone = +77-297-529-6567", "format": "json"}
+{"input": "JSON; email = benjamin.warner@gmx.com; age is 26", "format": "json"}
+{"input": "YAML; name: Vincent Hill, the country is Malaysia", "format": "yaml"}
+{"input": "Write YAML: occupation: Farmer, phone: +60-222-213-7893, country = Uzbekistan, the city is Mumbai, the name is Scott Coleman", "format": "yaml"}
+{"input": "Represent as YAML: phone = +43-890-568-9052, city is Madrid", "format": "yaml"}
+{"input": "YAML \u2014 the name is Margaret Powell and phone = +38-324-031-3182 and occupation is Industrial Engineer", "format": "yaml"}
+{"input": "I need JSON: city = Zagreb and phone is +55-374-133-3925", "format": "json"}
+{"input": "Please format as YAML: occupation: Firefighter, name: Carol Martin, age is 39", "format": "yaml"}
+{"input": "YAML \u2014 score: 78.3; phone is +58-302-127-6463", "format": "yaml"}
+{"input": "Produce YAML from this data: phone = +14-283-815-7503, city: Tashkent, age: 75, the score is 68.3 and name = Richard White", "format": "yaml"}
+{"input": "Give me YAML for: age = 54; country is Indonesia; the email is daniel_hill@outlook.com; the city is Kuala Lumpur; name = Dylan Coleman and phone is +56-993-053-6711", "format": "yaml"}
+{"input": "JSON \u2014 score = 48.4, email is terry.stewart@inbox.com", "format": "json"}
+{"input": "Represent as CSV: score: 93.3, phone: +68-027-066-2124, age: 39", "format": "csv"}
+{"input": "Convert to YAML: occupation = Biomedical Engineer, city is Osaka and score: 42.3", "format": "yaml"}
+{"input": "Please format as CSV: occupation is Lawyer, city = Osaka", "format": "csv"}
+{"input": "Represent as JSON: country: Denmark, occupation = Biomedical Engineer, name = Mary Robinson, the score is 57.5, age: 44", "format": "json"}
+{"input": "Convert to JSON: phone: +32-870-332-1860; name: Denise Wolfe; email = bobby_evans@mail.ru; occupation is Dancer; country = Japan; city: Karachi", "format": "json"}
+{"input": "Represent as YAML: phone: +23-686-037-9650; the occupation is Translator; country: Australia; the name is Frank Edwards; the email is joshua.jackson@hey.com; city is Kuala Lumpur", "format": "yaml"}
+{"input": "CSV; phone: +21-631-283-5141, email = albert_cook@icloud.com, the occupation is Consultant, the name is Rebecca Miller", "format": "csv"}
+{"input": "YAML output for: the age is 38 and email: laura.webb@msn.com", "format": "yaml"}
+{"input": "YAML \u2014 email is angelajenkins@outlook.com and score is 37.3 and name = Ann Lee and country is France and city: Lima", "format": "yaml"}
+{"input": "Transform into CSV: the score is 51.6; country is Indonesia; the age is 59 and email is gracelee@pm.me", "format": "csv"}
+{"input": "I need JSON: email is daniel.cox@tutanota.com, the country is Japan, name: Terry Peterson, city is Tehran", "format": "json"}
+{"input": "Generate YAML with the following: age = 18, occupation: Plumber, the name is Katherine Palmer, city: Singapore, score = 62.6", "format": "yaml"}
+{"input": "Give me YAML for: phone is +90-910-338-3766, the name is Andrea Palmer", "format": "yaml"}
+{"input": "Please format as YAML: the city is Asuncion and occupation = Electrical Engineer and name is Joshua Santiago and country = United States and age = 58", "format": "yaml"}
+{"input": "Write JSON: the phone is +51-267-597-9844, age is 40, score is 87.2", "format": "json"}
+{"input": "Produce JSON from this data: country is Czech Republic, score: 19.7, phone = +72-768-583-3402, email = janice.lee@yandex.com, occupation = Doctor, the age is 50", "format": "json"}
+{"input": "Output YAML format. city is Tbilisi, name: Beverly Perkins, country is Malaysia.", "format": "yaml"}
+{"input": "Format this as CSV \u2014 the country is Russia and city is Taipei and the email is russell.mitchell@inbox.com", "format": "csv"}
+{"input": "Represent as YAML: occupation: HR Manager; age = 35", "format": "yaml"}
+{"input": "Format this as CSV \u2014 occupation: Lawyer; name: Debra Jackson; country: Italy; phone is +40-222-020-8846", "format": "csv"}
+{"input": "Format this as JSON \u2014 name is Rebecca Ramos; score is 64.7; age is 39", "format": "json"}
+{"input": "I need JSON: the country is Greece, occupation is Doctor", "format": "json"}
+{"input": "YAML output for: country = Nigeria, email is loganlong@pm.me, occupation = Designer and the name is Jordan Morales", "format": "yaml"}
+{"input": "Output YAML format. the age is 62; the email is sandrajenkins@mail.ru; name is Barbara Parker; city: Kuala Lumpur and the phone is +33-165-943-8465.", "format": "yaml"}
+{"input": "CSV \u2014 occupation is Quality Assurance Engineer; the email is thomas_nelson@protonmail.com; the age is 61; the city is Amsterdam; score: 82.3; phone is +15-408-084-5670", "format": "csv"}
+{"input": "CSV; city: Phoenix; occupation = Business Analyst; score: 94.0; phone is +87-928-073-5537; age is 18", "format": "csv"}
+{"input": "Convert to CSV: country = Canada; email: alanmarquez@mail.com; the name is Sophia Kim and phone is +22-803-915-6634", "format": "csv"}
+{"input": "Transform into JSON: city: Riga and age = 43 and email: tyler.aguilar@gmx.com and score = 32.3", "format": "json"}
+{"input": "Output CSV format. occupation is Actor; the phone is +56-899-313-6924; email is isabella_diaz@me.com; age is 46.", "format": "csv"}
+{"input": "Output YAML format. city = Tunis and email: russellalvarez@yahoo.com and the age is 61 and country = Singapore and phone: +98-981-196-2180.", "format": "yaml"}
+{"input": "Generate JSON with the following: country: Singapore and occupation: Coach and score: 32.7", "format": "json"}
+{"input": "Please format as CSV: occupation: CEO, name is Andrea Castillo, phone is +95-311-771-1507, the age is 21", "format": "csv"}
+{"input": "Represent as CSV: score is 16.2; the occupation is Chemist; the name is Carolyn Mcdonald; the phone is +3-773-968-0223; age: 65 and city is Vienna", "format": "csv"}
+{"input": "JSON \u2014 country: Belgium, name: Carl Hall, the phone is +11-169-130-2093, the city is Kuwait City, score is 63.9, occupation is Civil Engineer", "format": "json"}
+{"input": "JSON output for: phone = +62-203-853-5575 and age = 27", "format": "json"}
+{"input": "Output JSON format. the email is michael.mendoza@hey.com, phone = +92-843-190-2584, age is 28.", "format": "json"}
+{"input": "Give me JSON for: city is Boston; country is Vietnam; email = davidturner@hey.com; name: Ethan Lewis; score = 96.7", "format": "json"}
+{"input": "Produce JSON from this data: score is 15.5; age is 71", "format": "json"}
+{"input": "JSON; the occupation is Pharmacist, email is zachary.vargas@yahoo.com", "format": "json"}
+{"input": "Create a CSV record where country is Norway and email is austinjames@pm.me and age = 69 and city: Addis Ababa and phone = +68-605-479-2122 and score: 82.0", "format": "csv"}
+{"input": "I need YAML: email = tyler_campbell@fastmail.com and country: Philippines and the age is 37 and city = Panama City and the name is Gregory Rivera", "format": "yaml"}
+{"input": "Represent as JSON: age: 65; name: Zachary Perkins; occupation: Musician; the score is 46.7; email is anna_johnson@protonmail.com; city: Lima", "format": "json"}
+{"input": "Output YAML format. the age is 48; city: Doha; the phone is +20-742-572-1913 and name is Christian Powell.", "format": "yaml"}
+{"input": "Format this as YAML \u2014 city is San Jose, email = marilyn.ross@icloud.com, the occupation is HR Manager, age is 22", "format": "yaml"}
+{"input": "Convert to YAML: score = 54.5; the phone is +40-134-944-6022; city is Houston; age: 47; the email is brittany.garcia@inbox.com", "format": "yaml"}
+{"input": "Produce CSV from this data: city: Mumbai; age: 56; the score is 16.8 and country = Croatia", "format": "csv"}
+{"input": "Write YAML: the phone is +53-207-916-1920, the email is joan_flores@me.com", "format": "yaml"}
+{"input": "Transform into CSV: country = Portugal, name = Christina Cook, the age is 54", "format": "csv"}
+{"input": "Represent as YAML: the city is Karachi and phone = +49-242-753-1347 and the score is 52.5", "format": "yaml"}
